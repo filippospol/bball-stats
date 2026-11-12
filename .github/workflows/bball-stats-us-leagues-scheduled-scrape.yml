@@ -42,17 +42,17 @@ jobs:
       - name: (W)NBA Scraper
         id: scrape_usa
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/USA-scraper.R
+        run: Rscript scrapers/USA-scraper.R
 
       - name: Build app-data.rds
-        run: Rscript bball-stats/bball-stats-app-build-data.R
+        run: Rscript data/bball-stats-build-data.R
 
       - name: Debug - List Files
         run: |
           echo "Files in root:"
           ls -l *.csv || echo "No CSVs in root"
           echo "Files in data folder:"
-          ls -R bball-stats/data/
+          ls -R data/
 
       - name: Commit and Push
         run: |

@@ -79,53 +79,53 @@ jobs:
       - name: Pro A Scraper
         id: scrape_fr
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/FR-scraper.R
+        run: Rscript scrapers/FR-scraper.R
 
       - name: Serie A Scraper
         id: scrape_it
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/IT-scraper.R
+        run: Rscript scrapers/IT-scraper.R
 
       # BBL reads public easycredit-bbl.de pages (no API secret needed).
       - name: BBL Scraper
         id: scrape_de
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/DE-scraper.R
+        run: Rscript scrapers/DE-scraper.R
 
       - name: ACB Scraper
         id: scrape_es
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/ES-scraper.R
+        run: Rscript scrapers/ES-scraper.R
 
       - name: TBSL Scraper
         id: scrape_tr
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/TR-scraper.R
+        run: Rscript scrapers/TR-scraper.R
 
       - name: Euroleague Scraper
         id: scrape_el
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/EL-scraper.R
+        run: Rscript scrapers/EL-scraper.R
 
       - name: Eurocup Scraper
         id: scrape_ec
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/EC-scraper.R
+        run: Rscript scrapers/EC-scraper.R
 
       - name: GBL Scraper
         id: scrape_gr
         continue-on-error: true
-        run: Rscript bball-stats/scrapers/GR-scraper.R
+        run: Rscript scrapers/GR-scraper.R
 
       - name: Build app-data.rds
-        run: Rscript bball-stats/bball-stats-app-build-data.R
+        run: Rscript data/bball-stats-build-data.R
 
       - name: Debug - List Files
         run: |
           echo "Files in root:"
           ls -l *.csv || echo "No CSVs in root"
           echo "Files in data folder:"
-          ls -R bball-stats/data/
+          ls -R data/
 
       - name: Commit and Push
         run: |
@@ -145,9 +145,9 @@ jobs:
           echo "Mode: $mode" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
           failed=0; empty=0
-          # $1 = league, $2 = step outcome, $3 = CSV prefix (bball-stats/data/<prefix>-players.csv)
+          # $1 = league, $2 = step outcome, $3 = CSV prefix (data/<prefix>-players.csv)
           report () {
-            f="bball-stats/data/$3-players.csv"
+            f="data/$3-players.csv"
             rows=0
             if [ -f "$f" ]; then rows=$(( $(wc -l < "$f") - 1 )); fi
             if [ "$rows" -lt 0 ]; then rows=0; fi
@@ -173,12 +173,12 @@ jobs:
           # NBB is updated manually (lnb.com.br does not answer GitHub's servers), so instead
           # of a step outcome, compare the season schedule (BR-schedule.csv, written by the
           # local BR-scraper run) with BR-players.csv: count games per date on each side.
-          if [ -f bball-stats/data/BR-schedule.csv ]; then
+          if [ -f data/BR-schedule.csv ]; then
             today=$(date -u +%Y-%m-%d)
-            grep -oE '"[0-9]{4}-[0-9]{2}-[0-9]{2}, [A-Z]{2,4} vs [A-Z]{2,4}"' bball-stats/data/BR-players.csv \
+            grep -oE '"[0-9]{4}-[0-9]{2}-[0-9]{2}, [A-Z]{2,4} vs [A-Z]{2,4}"' data/BR-players.csv \
               | sort -u | cut -c2-11 | sort | uniq -c > db_dates.tmp
             last_db=$(tail -1 db_dates.tmp | awk '{print $2}')
-            tail -n +2 bball-stats/data/BR-schedule.csv | awk -v t="$today" '$1 < t' | sort | uniq -c > sc_dates.tmp
+            tail -n +2 data/BR-schedule.csv | awk -v t="$today" '$1 < t' | sort | uniq -c > sc_dates.tmp
             read -r n d1 d2 <<< "$(awk 'NR==FNR {db[$2]=$1; next}
               {m = $1 - db[$2]
                if (m > 0) {total += m; if (first == "" || $2 < first) first = $2; if ($2 > last) last = $2}}
