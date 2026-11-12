@@ -35,7 +35,7 @@ library(vroom)
 
 #' *EXTRACT MATCH ID'S*
 # From TR-fixtures.json (geniusId = FIBA LiveStats id, date, team names), sorted by date:
-fixtures = fromJSON("https://raw.githubusercontent.com/filippospol/R-bball-projects/refs/heads/main/bball-stats/scrapers/TR-fixtures.json") %>%
+fixtures = fromJSON("scrapers/TR-fixtures.json") %>%
   as_tibble() %>%
   filter(!is.na(geniusId) & geniusId != "") %>%
   mutate(date = as_date(date)) %>%
@@ -58,11 +58,11 @@ league="TBSL" ; season="2026-27"
 full_refresh = Sys.getenv("FULL_REFRESH") == "true"
 old_players = tibble(GAME_ID = character(), SEASON = character(), MATCHUP = character())
 old_teams   = tibble(MATCHUP = character())
-if (!full_refresh && file.exists("bball-stats/data/TR-players.csv") && file.exists("bball-stats/data/TR-teams.csv")) {
+if (!full_refresh && file.exists("data/TR-players.csv") && file.exists("data/TR-teams.csv")) {
   try({
-    old_players = read_csv("bball-stats/data/TR-players.csv", col_types = cols(GAME_ID = "c"), show_col_types = FALSE) %>%
+    old_players = read_csv("data/TR-players.csv", col_types = cols(GAME_ID = "c"), show_col_types = FALSE) %>%
       filter(SEASON == season)
-    old_teams = read_csv("bball-stats/data/TR-teams.csv", show_col_types = FALSE) %>%
+    old_teams = read_csv("data/TR-teams.csv", show_col_types = FALSE) %>%
       filter(MATCHUP %in% old_players$MATCHUP)
   }, silent = TRUE)
 }
@@ -221,7 +221,7 @@ if (length(PP) > 0 || nrow(old_players) > 0) {
   # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
   # write files in .csv format
-  write_csv(players,"bball-stats/data/TR-players.csv")
-  write_csv(teams,"bball-stats/data/TR-teams.csv")
+  write_csv(players,"data/TR-players.csv")
+  write_csv(teams,"data/TR-teams.csv")
   
 }

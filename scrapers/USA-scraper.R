@@ -154,8 +154,8 @@ teams = tbox %>%
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 rm(list=setdiff(ls(),c("players","teams")))
-write_csv(players, "bball-stats/data/NBA-players.csv")
-write_csv(teams,   "bball-stats/data/NBA-teams.csv")
+write_csv(players, "data/NBA-players.csv")
+write_csv(teams,   "data/NBA-teams.csv")
 
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -288,5 +288,5 @@ teams = tbox %>%
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 rm(list=setdiff(ls(),c("players","teams")))
-write_csv(players, "bball-stats/data/WNBA-players.csv")
-write_csv(teams,   "bball-stats/data/WNBA-teams.csv")
+write_csv(players, "data/WNBA-players.csv")
+write_csv(teams,   "data/WNBA-teams.csv")

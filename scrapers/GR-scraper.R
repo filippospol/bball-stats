@@ -248,11 +248,11 @@ if (sys.nframe() == 0) {
   full_refresh = Sys.getenv("FULL_REFRESH") == "true"
   old_players = tibble(GAME_ID = character(), SEASON = character(), MATCHUP = character())
   old_teams   = tibble(MATCHUP = character())
-  if (!full_refresh && file.exists("bball-stats/data/GR-players.csv") && file.exists("bball-stats/data/GR-teams.csv")) {
+  if (!full_refresh && file.exists("data/GR-players.csv") && file.exists("data/GR-teams.csv")) {
     try({
-      old_players = read_csv("bball-stats/data/GR-players.csv", col_types = cols(GAME_ID = "c"), show_col_types = FALSE) %>%
+      old_players = read_csv("data/GR-players.csv", col_types = cols(GAME_ID = "c"), show_col_types = FALSE) %>%
         filter(SEASON == season)
-      old_teams = read_csv("bball-stats/data/GR-teams.csv", show_col_types = FALSE) %>%
+      old_teams = read_csv("data/GR-teams.csv", show_col_types = FALSE) %>%
         filter(MATCHUP %in% old_players$MATCHUP)
     }, silent = TRUE)
   }
@@ -275,7 +275,7 @@ if (sys.nframe() == 0) {
   
   # (only if there is something to write, so a bad run keeps the old files)
   if (nrow(players_df) > 0) {
-    write_excel_csv(players_df, "bball-stats/data/GR-players.csv")
-    write_excel_csv(teams_df,   "bball-stats/data/GR-teams.csv")
+    write_excel_csv(players_df, "data/GR-players.csv")
+    write_excel_csv(teams_df,   "data/GR-teams.csv")
   }
 }

@@ -63,11 +63,11 @@ rm(list=setdiff(ls(),c("fixture_info","scode","season")))
 full_refresh = Sys.getenv("FULL_REFRESH") == "true"
 old_players = tibble(GAME_ID = character(), SEASON = character(), MATCHUP = character())
 old_teams   = tibble(MATCHUP = character())
-if (!full_refresh && file.exists("bball-stats/data/EC-players.csv") && file.exists("bball-stats/data/EC-teams.csv")) {
+if (!full_refresh && file.exists("data/EC-players.csv") && file.exists("data/EC-teams.csv")) {
   try({
-    old_players = read_csv("bball-stats/data/EC-players.csv", col_types = cols(GAME_ID = "c"), show_col_types = FALSE) %>%
+    old_players = read_csv("data/EC-players.csv", col_types = cols(GAME_ID = "c"), show_col_types = FALSE) %>%
       filter(SEASON == season)
-    old_teams = read_csv("bball-stats/data/EC-teams.csv", show_col_types = FALSE) %>%
+    old_teams = read_csv("data/EC-teams.csv", show_col_types = FALSE) %>%
       filter(MATCHUP %in% old_players$MATCHUP)
   }, silent = TRUE)
 }
@@ -130,6 +130,6 @@ teams   = bind_rows(old_teams, bind_rows(TT))
 # beepr::beep()
 # write files in .csv format (only if there is something to write, so a bad run keeps the old files)
 if (nrow(players) > 0) {
-  write_csv(players,"bball-stats/data/EC-players.csv")
-  write_csv(teams,"bball-stats/data/EC-teams.csv")
+  write_csv(players,"data/EC-players.csv")
+  write_csv(teams,"data/EC-teams.csv")
 }
