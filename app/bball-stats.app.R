@@ -114,26 +114,62 @@ ODDS_CAP   = 15.00
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # Data:
-#' [ Precomputed by bball-stats-app-build-data.R and refreshed by the two scraper
+#' [ Precomputed by data/bball-stats-build-data.R and refreshed by the two scraper
 #'   workflows. The app loads one bundle (app-data.rds) instead of fetching ~20
 #'   CSVs and re-running every transform on each cold start.
-#'   To rebuild by hand: Rscript bball-stats/bball-stats-app-build-data.R ]
-github_path = "https://raw.githubusercontent.com/filippospol/R-bball-projects/refs/heads/main/bball-stats/data/"
+#'   To rebuild by hand: Rscript data/bball-stats-build-data.R ]
+#'
+#'   The data lives in the PRIVATE repo filippospol/bball-stats, so it is read
+#'   through the GitHub Contents API (raw media type) with a fine-grained PAT that
+#'   has "Contents: read" on that repo. raw.githubusercontent.com is NOT used - it
+#'   does not serve private repositories. The token is taken from the GH_DATA_TOKEN
+#'   environment variable first, then from a local gh_token.txt deployed alongside
+#'   the app (gitignored - NEVER commit it).
+data_repo = "filippospol/bball-stats"
+data_file = "data/bball-stats-app-data.rds"
 
-# Load the precomputed bundle. libcurl is the most reliable method for an https
-# binary on Windows and errors on a 404 instead of silently saving the error page.
-# We then verify the gzip magic (1f 8b), so a proxy/HTML page or a 404 body fails
-# with a clear message instead of an opaque readRDS "unknown input format".
+# Token lookup: env var first (if shinyapps env vars are set), then the bundled file.
+get_data_token = function() {
+  tok = Sys.getenv("GH_DATA_TOKEN", "")
+  if (nzchar(tok)) return(trimws(tok))
+  if (file.exists("gh_token.txt")) {
+    ln = tryCatch(trimws(readLines("gh_token.txt", warn = FALSE)), error = function(e) character(0))
+    ln = ln[nzchar(ln)]
+    if (length(ln)) return(ln[1])
+  }
+  stop("No GitHub token found. Set GH_DATA_TOKEN or deploy gh_token.txt next to the ",
+       "app - without it the app cannot read data from the private repo.")
+}
+
+# Load the precomputed bundle. The Contents API with the raw media type returns the
+# file bytes directly and works for private repos (up to 100 MB). We verify the gzip
+# magic (1f 8b), so an error page or a 404 body fails with a clear message instead of
+# an opaque readRDS "unknown input format". No CDN cache sits in front of the API, so
+# the app always gets the latest committed bundle.
 app_data = local({
-  url = paste0(github_path, "bball-stats-app-data.rds")
+  url = paste0("https://api.github.com/repos/", data_repo, "/contents/", data_file)
   tmp = tempfile(fileext = ".rds")
-  download.file(url, tmp, mode = "wb", quiet = TRUE, method = "libcurl")
+  resp = httr::GET(
+    url,
+    httr::add_headers(
+      Authorization          = paste("Bearer", get_data_token()),
+      Accept                 = "application/vnd.github.raw",
+      `X-GitHub-Api-Version` = "2022-11-28"
+    ),
+    httr::write_disk(tmp, overwrite = TRUE),
+    httr::timeout(120)
+  )
+  if (httr::status_code(resp) != 200) {
+    stop("Could not download ", data_file, " from ", data_repo,
+         " (HTTP ", httr::status_code(resp), "). Check that the token is valid and has ",
+         "Contents:read access to the repo.")
+  }
   magic = tryCatch(readBin(tmp, "raw", 2), error = function(e) raw(0))
   if (!file.exists(tmp) || file.size(tmp) < 1000 ||
       !identical(magic, as.raw(c(0x1f, 0x8b)))) {
     stop("Downloaded bball-stats-app-data.rds is not a valid .rds (",
-         if (file.exists(tmp)) file.size(tmp) else 0, " bytes). Likely a 404 or a ",
-         "proxy/HTML page. Open this URL in a browser to check: ", url)
+         if (file.exists(tmp)) file.size(tmp) else 0, " bytes). Likely an auth error ",
+         "or an API error page rather than the file.")
   }
   readRDS(tmp)
 })
