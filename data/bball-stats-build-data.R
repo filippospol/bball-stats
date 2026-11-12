@@ -1,11 +1,11 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #
-# Builds bball-stats/data/app-data.rds : a single precomputed bundle of every
+# Builds data/app-data.rds : a single precomputed bundle of every
 # object the Shiny app builds at startup, so the app loads one file instead of
 # fetching ~20 CSVs and re-running all the transforms on every cold start.
 #
-# Run after the scrapers, from the repo root:  Rscript bball-stats/bball-stats-app-build-data.R
+# Run after the scrapers, from the repo root:  Rscript data/bball-stats-build-data.R
 # Reads the CSVs that are already on disk (local paths, not the GitHub URL).
 # Author: Filippos Polyzos
 #
@@ -23,7 +23,7 @@ suppressPackageStartupMessages({
 vroom = function(...) suppressWarnings(suppressMessages(vroom::vroom(...)))
 
 # Where the CSVs live locally (repo root is the working dir in CI):
-data_path = "bball-stats/data/"
+data_path = "data/"
 out_path  = paste0(data_path, "bball-stats-app-data.rds")
 
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
