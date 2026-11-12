@@ -6,8 +6,8 @@
     <td valign="middle">
       <h1>Basketball Stats</h1>
       <img src="https://img.shields.io/badge/Made%20with-R-276DC3?logo=r&logoColor=white" alt="R" />
-      <img src="https://img.shields.io/github/last-commit/filippospol/R-bball-projects" alt="Last commit" />
-      <img src="https://img.shields.io/github/license/filippospol/R-bball-projects" alt="License" />
+      <img src="https://img.shields.io/badge/Shiny-app-447099?logo=rstudio&logoColor=white" alt="Shiny" />
+      <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
     </td>
   </tr>
 </table>
