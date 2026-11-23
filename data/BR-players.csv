@@ -29,8 +29,8 @@ nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,MENCA,IT
 nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,GERSON,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",36,11,4,10,0,0,3,4,8,3,11,3,0,0,3,1
 nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,CASSIANO,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",28,9,2,5,1,3,2,2,3,0,3,3,0,0,0,2
 nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,ANSALONI,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",18,8,3,4,0,0,2,2,3,1,4,2,0,0,0,3
-nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,EMERSON SILVA,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",20,7,2,4,1,2,0,0,4,0,4,0,0,0,0,3
 nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,NIQUE COLEMAN,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",20,7,2,3,1,4,0,0,2,0,2,0,0,0,1,3
+nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,EMERSON SILVA,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",20,7,2,4,1,2,0,0,4,0,4,0,0,0,0,3
 nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,ICARO,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2
 nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,LEO ABREU,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",6,0,0,0,0,0,0,0,3,0,3,0,0,0,1,0
 nbb-caixa-2026-27-caxias-do-sul-61-x-72-itatiaiucu-cruzeiro,2026-27,NBB,PAULINO,ITATIAIUCU CRUZEIRO,"2026-10-17, CAX vs CRU",6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
@@ -38,21 +38,21 @@ nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,FIGUEREDO,UNIFACIS
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,PARANHOS,UNIFACISA,"2026-10-17, UFC vs OSA",21,14,5,8,0,0,4,6,1,3,4,2,0,0,1,2
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,MATHEUSINHO,UNIFACISA,"2026-10-17, UFC vs OSA",20,12,4,6,1,3,1,3,4,1,5,3,1,0,2,1
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,HINKLE,UNIFACISA,"2026-10-17, UFC vs OSA",29,11,1,2,3,5,0,0,1,0,1,4,0,0,0,2
-nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,M. BONFIM,UNIFACISA,"2026-10-17, UFC vs OSA",18,10,4,6,0,0,2,2,4,3,7,1,0,2,2,4
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,ANTONIO,UNIFACISA,"2026-10-17, UFC vs OSA",22,10,2,4,1,2,3,3,5,1,6,0,0,0,0,0
+nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,M. BONFIM,UNIFACISA,"2026-10-17, UFC vs OSA",18,10,4,6,0,0,2,2,4,3,7,1,0,2,2,4
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,WEAVER,UNIFACISA,"2026-10-17, UFC vs OSA",26,9,2,2,1,3,2,2,3,0,3,2,1,0,4,1
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,FLORES,UNIFACISA,"2026-10-17, UFC vs OSA",8,5,1,1,1,1,0,0,1,0,1,0,1,0,0,1
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,JOAO PAULO,UNIFACISA,"2026-10-17, UFC vs OSA",12,4,1,1,0,3,2,2,4,0,4,3,1,1,0,2
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,JIMMY,UNIFACISA,"2026-10-17, UFC vs OSA",18,2,1,1,0,4,0,0,3,0,3,3,3,0,1,1
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,JJ,BASKET OSASCO,"2026-10-17, UFC vs OSA",28,20,8,9,1,6,1,2,3,2,5,3,1,0,3,3
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-10-17, UFC vs OSA",31,14,2,4,3,6,1,2,5,2,7,2,0,0,4,0
-nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,LESSA,BASKET OSASCO,"2026-10-17, UFC vs OSA",30,11,2,6,2,3,1,2,2,1,3,2,0,0,0,2
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,FIDELIS,BASKET OSASCO,"2026-10-17, UFC vs OSA",32,11,4,9,0,1,3,3,5,5,10,0,0,0,1,2
+nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,LESSA,BASKET OSASCO,"2026-10-17, UFC vs OSA",30,11,2,6,2,3,1,2,2,1,3,2,0,0,0,2
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,VINICIUS,BASKET OSASCO,"2026-10-17, UFC vs OSA",23,7,0,2,2,6,1,4,1,0,1,4,0,0,1,2
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,JON,BASKET OSASCO,"2026-10-17, UFC vs OSA",24,5,2,5,0,3,1,2,2,1,3,2,1,0,0,2
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,BARRY,BASKET OSASCO,"2026-10-17, UFC vs OSA",18,2,1,1,0,4,0,0,4,0,4,0,1,0,2,0
-nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,FABIO,BASKET OSASCO,"2026-10-17, UFC vs OSA",4,0,0,0,0,3,0,0,0,0,0,0,1,0,0,1
 nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,JULIO,BASKET OSASCO,"2026-10-17, UFC vs OSA",9,0,0,3,0,1,0,0,0,2,2,0,0,0,0,1
+nbb-caixa-2026-27-unifacisa-96-x-70-basket-osasco,2026-27,NBB,FABIO,BASKET OSASCO,"2026-10-17, UFC vs OSA",4,0,0,0,0,3,0,0,0,0,0,0,1,0,0,1
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,YAGO,FLAMENGO,"2026-10-18, FLA vs BAU",30,22,1,1,4,9,8,13,6,0,6,6,0,0,5,2
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,MONTERO,FLAMENGO,"2026-10-18, FLA vs BAU",32,13,5,7,1,2,0,0,5,1,6,4,1,3,1,2
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,DIDI,FLAMENGO,"2026-10-18, FLA vs BAU",31,12,4,8,0,6,4,5,5,1,6,2,2,0,0,0
@@ -67,14 +67,14 @@ nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,HARRIS,BAURU BASKET,
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,RODRIGUES,BAURU BASKET,"2026-10-18, FLA vs BAU",22,17,8,13,0,0,1,2,2,3,5,0,1,0,0,5
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,THYGESEN,BAURU BASKET,"2026-10-18, FLA vs BAU",25,10,2,6,2,6,0,0,4,1,5,3,1,0,4,3
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,VIETA,BAURU BASKET,"2026-10-18, FLA vs BAU",14,7,0,1,1,2,4,4,1,1,2,0,1,0,0,3
-nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,MOGI,BAURU BASKET,"2026-10-18, FLA vs BAU",16,6,3,5,0,1,0,0,2,1,3,1,1,0,0,0
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,GUSTAVO,BAURU BASKET,"2026-10-18, FLA vs BAU",19,6,1,2,1,2,1,4,2,3,5,2,1,2,1,5
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,BENNETT,BAURU BASKET,"2026-10-18, FLA vs BAU",29,6,3,5,0,3,0,2,3,1,4,5,1,0,1,1
+nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,MOGI,BAURU BASKET,"2026-10-18, FLA vs BAU",16,6,3,5,0,1,0,0,2,1,3,1,1,0,0,0
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,ALEX,BAURU BASKET,"2026-10-18, FLA vs BAU",26,4,1,6,0,4,2,2,4,2,6,6,0,0,2,4
 nbb-caixa-2026-27-flamengo-81-x-82-bauru-basket,2026-27,NBB,VITOR,BAURU BASKET,"2026-10-18, FLA vs BAU",14,2,0,1,0,0,2,2,1,0,1,0,0,1,0,5
 nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose,2026-27,NBB,VITINHO,SESI FRANCA,"2026-10-19, FRA vs SJO",25,18,3,4,3,9,3,4,4,1,5,3,4,0,2,0
-nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose,2026-27,NBB,DAVID JACKSON,SESI FRANCA,"2026-10-19, FRA vs SJO",23,14,3,4,1,4,5,6,4,2,6,2,1,0,2,2
 nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose,2026-27,NBB,REYNAN,SESI FRANCA,"2026-10-19, FRA vs SJO",24,14,6,9,0,4,2,2,4,1,5,3,1,0,0,1
+nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose,2026-27,NBB,DAVID JACKSON,SESI FRANCA,"2026-10-19, FRA vs SJO",23,14,3,4,1,4,5,6,4,2,6,2,1,0,2,2
 nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose,2026-27,NBB,ANDREZAO,SESI FRANCA,"2026-10-19, FRA vs SJO",26,9,4,6,0,1,1,3,6,2,8,1,1,0,2,2
 nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose,2026-27,NBB,MINEIRO,SESI FRANCA,"2026-10-19, FRA vs SJO",23,8,1,1,1,3,3,3,2,0,2,1,0,0,2,2
 nbb-caixa-2026-27-sesi-franca-90-x-59-sao-jose,2026-27,NBB,NICOLINI,SESI FRANCA,"2026-10-19, FRA vs SJO",9,7,2,2,1,2,0,2,2,1,3,1,0,0,1,0
@@ -110,8 +110,8 @@ nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,NIQUE COLEMAN,ITATIAIUCU CRUZEIRO,"2026-10-19, UCO vs CRU",27,11,2,3,2,5,1,2,3,0,3,3,1,0,1,3
 nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,ANSALONI,ITATIAIUCU CRUZEIRO,"2026-10-19, UCO vs CRU",16,6,3,6,0,0,0,0,5,3,8,1,1,0,0,1
 nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,ADYEL,ITATIAIUCU CRUZEIRO,"2026-10-19, UCO vs CRU",30,5,1,6,1,6,0,0,5,1,6,3,1,0,5,2
-nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,CASSIANO,ITATIAIUCU CRUZEIRO,"2026-10-19, UCO vs CRU",22,4,2,5,0,0,0,0,2,1,3,3,1,0,2,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,LEO ABREU,ITATIAIUCU CRUZEIRO,"2026-10-19, UCO vs CRU",21,4,2,2,0,2,0,0,1,0,1,3,3,0,1,1
+nbb-caixa-2026-27-ceisc-uniao-corinthians-83-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,CASSIANO,ITATIAIUCU CRUZEIRO,"2026-10-19, UCO vs CRU",22,4,2,5,0,0,0,0,2,1,3,3,1,0,2,2
 nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros,2026-27,NBB,WEAVER,UNIFACISA,"2026-10-19, UFC vs PIN",27,14,4,6,1,4,3,3,3,0,3,6,0,2,0,1
 nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros,2026-27,NBB,ANTONIO,UNIFACISA,"2026-10-19, UFC vs PIN",29,14,2,4,3,3,1,2,2,1,3,1,2,0,1,2
 nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros,2026-27,NBB,HINKLE,UNIFACISA,"2026-10-19, UFC vs PIN",22,14,3,4,2,4,2,2,2,1,3,1,1,0,3,0
@@ -134,24 +134,6 @@ nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros,2026-27,NBB,GOERINO,PINHEIROS,"202
 nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros,2026-27,NBB,DIEGER,PINHEIROS,"2026-10-19, UFC vs PIN",12,2,1,1,0,2,0,0,1,1,2,1,0,0,1,1
 nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros,2026-27,NBB,MEILI,PINHEIROS,"2026-10-19, UFC vs PIN",10,0,0,1,0,2,0,0,1,0,1,1,0,0,0,1
 nbb-caixa-2026-27-unifacisa-81-x-65-pinheiros,2026-27,NBB,JOSUE,PINHEIROS,"2026-10-19, UFC vs PIN",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,RUAN,FLAMENGO,"2026-10-20, FLA vs BOT",22,20,9,15,0,0,2,3,3,2,5,1,1,0,3,4
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,NEGRETE,FLAMENGO,"2026-10-20, FLA vs BOT",28,17,4,10,3,5,0,0,4,2,6,2,1,1,2,4
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,YAGO,FLAMENGO,"2026-10-20, FLA vs BOT",27,10,4,4,0,5,2,2,1,0,1,5,0,0,0,2
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,MONTERO,FLAMENGO,"2026-10-20, FLA vs BOT",31,9,3,7,1,3,0,0,10,3,13,3,3,0,2,0
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,DIDI,FLAMENGO,"2026-10-20, FLA vs BOT",24,8,4,6,0,3,0,0,7,0,7,3,0,0,1,2
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,DOS SANTOS,FLAMENGO,"2026-10-20, FLA vs BOT",17,7,2,3,1,2,0,0,1,1,2,0,0,0,1,2
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,MANEL,FLAMENGO,"2026-10-20, FLA vs BOT",16,6,3,5,0,0,0,0,0,2,2,2,0,1,3,1
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,DJALO,FLAMENGO,"2026-10-20, FLA vs BOT",16,4,2,3,0,0,0,0,3,1,4,0,4,0,2,0
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,BARALLE,FLAMENGO,"2026-10-20, FLA vs BOT",17,0,0,0,0,2,0,0,2,0,2,6,0,0,1,1
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,IGOR,FLAMENGO,"2026-10-20, FLA vs BOT",5,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,VINI CHAGAS,BOTAFOGO,"2026-10-20, FLA vs BOT",21,17,7,12,1,1,0,0,3,2,5,1,0,0,1,3
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,JP DEMETRIO,BOTAFOGO,"2026-10-20, FLA vs BOT",13,14,6,8,0,0,2,2,2,2,4,0,0,0,1,3
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,PEDRO NUNES,BOTAFOGO,"2026-10-20, FLA vs BOT",18,12,3,4,2,6,0,0,2,1,3,1,0,0,1,2
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,HUMBERTO,BOTAFOGO,"2026-10-20, FLA vs BOT",30,7,3,5,0,0,1,3,4,2,6,1,2,2,2,3
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,FISCHER,BOTAFOGO,"2026-10-20, FLA vs BOT",31,7,2,5,0,9,3,3,2,0,2,9,2,0,3,2
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,THORNTON,BOTAFOGO,"2026-10-20, FLA vs BOT",34,5,1,5,1,6,0,0,2,1,3,2,0,1,1,1
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,MUDRONJA,BOTAFOGO,"2026-10-20, FLA vs BOT",33,5,1,5,1,3,0,0,8,1,9,7,1,0,3,1
-nbb-caixa-2026-27-flamengo-81-x-71-botafogo,2026-27,NBB,VITHINHO,BOTAFOGO,"2026-10-20, FLA vs BOT",20,4,2,4,0,1,0,0,2,0,2,4,2,0,3,2
 nbb-caixa-2026-27-caxias-do-sul-66-x-78-minas-storm,2026-27,NBB,NAKA,CAXIAS DO SUL,"2026-10-20, CAX vs MIN",38,20,3,6,4,6,2,4,4,0,4,7,3,0,1,4
 nbb-caixa-2026-27-caxias-do-sul-66-x-78-minas-storm,2026-27,NBB,NK,CAXIAS DO SUL,"2026-10-20, CAX vs MIN",34,19,6,11,2,2,1,4,3,1,4,3,2,0,2,4
 nbb-caixa-2026-27-caxias-do-sul-66-x-78-minas-storm,2026-27,NBB,ISAAC R.,CAXIAS DO SUL,"2026-10-20, CAX vs MIN",31,11,1,3,2,7,3,4,3,1,4,2,5,0,1,4
@@ -173,8 +155,8 @@ nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,GABRIEL,BA
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,PYERRI,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",8,7,3,4,0,0,1,2,1,2,3,0,1,0,1,3
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",26,6,0,1,2,6,0,0,4,0,4,0,0,0,2,2
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,JEANZINHO,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",22,6,2,3,0,1,2,4,3,0,3,2,0,0,2,0
-nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,LUAN,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",19,4,0,3,0,3,4,4,0,0,0,0,0,0,4,2
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,TOM,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",27,4,1,4,0,0,2,4,4,6,10,1,0,0,1,3
+nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,LUAN,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",19,4,0,3,0,3,4,4,0,0,0,0,0,0,4,2
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,AUGUSTO,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",16,3,0,6,0,1,3,4,3,1,4,0,0,0,2,1
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,GOMES,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,TAREK,BASQUETE CEARENSE,"2026-10-20, BCE vs OSA",11,1,0,3,0,0,1,4,5,2,7,0,0,1,3,0
@@ -185,8 +167,8 @@ nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,FIDELIS,BA
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,JJ,BASKET OSASCO,"2026-10-20, BCE vs OSA",26,13,2,5,3,10,0,0,2,2,4,2,1,0,0,4
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,JON,BASKET OSASCO,"2026-10-20, BCE vs OSA",19,11,5,5,0,3,1,4,1,1,2,0,2,0,0,4
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,VINICIUS,BASKET OSASCO,"2026-10-20, BCE vs OSA",30,10,2,3,1,4,3,4,1,2,3,11,1,0,4,2
-nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-10-20, BCE vs OSA",21,3,1,2,0,4,1,1,2,1,3,3,0,0,1,3
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,FABIO,BASKET OSASCO,"2026-10-20, BCE vs OSA",3,3,0,0,1,1,0,2,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-10-20, BCE vs OSA",21,3,1,2,0,4,1,1,2,1,3,3,0,0,1,3
 nbb-caixa-2026-27-basquete-cearense-69-x-93-basket-osasco,2026-27,NBB,PASSOS,BASKET OSASCO,"2026-10-20, BCE vs OSA",19,0,0,2,0,0,0,0,3,2,5,0,0,0,0,1
 nbb-caixa-2026-27-bauru-basket-83-x-67-sao-jose,2026-27,NBB,VIETA,BAURU BASKET,"2026-10-21, BAU vs SJO",32,31,4,9,5,9,8,10,7,1,8,0,1,0,1,2
 nbb-caixa-2026-27-bauru-basket-83-x-67-sao-jose,2026-27,NBB,HARRIS,BAURU BASKET,"2026-10-21, BAU vs SJO",24,20,5,7,2,2,4,8,3,2,5,1,0,0,6,3
@@ -221,10 +203,10 @@ nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,BRITE,MOGI BASQU
 nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,PAULO,MOGI BASQUETE,"2026-10-21, FRA vs MOG",30,11,1,3,3,4,0,0,2,2,4,0,0,1,1,2
 nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,GEORGINHO,MOGI BASQUETE,"2026-10-21, FRA vs MOG",30,9,0,0,3,7,0,0,5,1,6,12,0,1,3,2
 nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,FUZARO,MOGI BASQUETE,"2026-10-21, FRA vs MOG",15,3,1,3,0,2,1,2,2,0,2,0,0,1,1,1
+nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,VITORIANO,MOGI BASQUETE,"2026-10-21, FRA vs MOG",7,0,0,2,0,1,0,0,0,0,0,0,1,0,2,1
 nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,L. CAUE,MOGI BASQUETE,"2026-10-21, FRA vs MOG",6,0,0,0,0,0,0,0,2,0,2,0,0,0,0,3
 nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,WENDELL,MOGI BASQUETE,"2026-10-21, FRA vs MOG",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,RUIVO,MOGI BASQUETE,"2026-10-21, FRA vs MOG",12,0,0,0,0,2,0,0,0,0,0,1,1,0,1,1
-nbb-caixa-2026-27-sesi-franca-90-x-74-mogi-basquete,2026-27,NBB,VITORIANO,MOGI BASQUETE,"2026-10-21, FRA vs MOG",7,0,0,2,0,1,0,0,0,0,0,0,1,0,2,1
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,BELLER,PATO BASQUETE,"2026-10-21, PAT vs CAP",28,15,3,4,3,4,0,0,3,3,6,1,1,0,3,2
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,GILLARD,PATO BASQUETE,"2026-10-21, PAT vs CAP",23,13,1,4,3,5,2,3,5,0,5,2,1,0,0,3
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,FELIPE,PATO BASQUETE,"2026-10-21, PAT vs CAP",25,12,4,5,1,3,1,2,3,4,7,2,0,1,0,0
@@ -241,8 +223,8 @@ nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,TOVAR,PAULISTANO,
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,SEIXAS,PAULISTANO,"2026-10-21, PAT vs CAP",28,11,0,4,3,7,2,2,1,0,1,1,0,0,1,0
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,LEANDRO,PAULISTANO,"2026-10-21, PAT vs CAP",20,10,1,3,2,5,2,2,3,1,4,0,1,1,0,0
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,NICKEL,PAULISTANO,"2026-10-21, PAT vs CAP",23,10,2,2,2,4,0,0,2,0,2,3,2,0,2,2
-nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,MAIQUE,PAULISTANO,"2026-10-21, PAT vs CAP",24,5,1,3,1,2,0,0,10,1,11,1,0,1,1,1
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,MACEDO,PAULISTANO,"2026-10-21, PAT vs CAP",16,5,1,1,1,2,0,0,2,2,4,0,0,1,4,2
+nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,MAIQUE,PAULISTANO,"2026-10-21, PAT vs CAP",24,5,1,3,1,2,0,0,10,1,11,1,0,1,1,1
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,RICH,PAULISTANO,"2026-10-21, PAT vs CAP",15,4,0,0,1,2,1,2,1,0,1,0,1,1,2,0
 nbb-caixa-2026-27-pato-basquete-74-x-80-paulistano,2026-27,NBB,GABRIEL,PAULISTANO,"2026-10-21, PAT vs CAP",12,1,0,0,0,2,1,2,1,1,2,0,1,0,1,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm,2026-27,NBB,GABRIEL,CEISC/UNIAO CORINTHIANS,"2026-10-22, UCO vs MIN",30,19,2,4,5,10,0,0,2,2,4,6,0,0,1,3
@@ -261,24 +243,24 @@ nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm,2026-27,NBB,R. RAC
 nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm,2026-27,NBB,SANTOS,MINAS STORM,"2026-10-22, UCO vs MIN",18,10,4,6,0,0,2,2,3,0,3,0,0,1,3,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm,2026-27,NBB,ABREU,MINAS STORM,"2026-10-22, UCO vs MIN",32,9,3,4,0,3,3,4,4,0,4,4,1,0,1,0
 nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm,2026-27,NBB,NEPTUNE,MINAS STORM,"2026-10-22, UCO vs MIN",12,7,2,3,0,1,3,3,2,1,3,0,0,0,0,2
-nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm,2026-27,NBB,CAUE,MINAS STORM,"2026-10-22, UCO vs MIN",14,2,1,1,0,0,0,0,3,0,3,2,0,0,1,3
 nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm,2026-27,NBB,COELHO,MINAS STORM,"2026-10-22, UCO vs MIN",28,2,1,2,0,1,0,0,1,0,1,4,0,0,1,1
+nbb-caixa-2026-27-ceisc-uniao-corinthians-71-x-88-minas-storm,2026-27,NBB,CAUE,MINAS STORM,"2026-10-22, UCO vs MIN",14,2,1,1,0,0,0,0,3,0,3,2,0,0,1,3
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,DUPREE,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",35,22,3,7,3,9,7,9,3,0,3,2,1,1,3,3
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,LUAN,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",22,12,2,9,1,7,5,5,1,5,6,2,1,0,2,2
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,GABRIEL,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",24,11,2,4,2,6,1,2,2,3,5,1,1,0,1,1
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,JEANZINHO,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",19,8,0,1,2,4,2,2,1,1,2,2,2,0,0,3
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,AUGUSTO,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",24,5,2,3,0,1,1,2,1,0,1,0,0,0,3,2
-nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,PYERRI,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",9,2,1,1,0,0,0,0,1,1,2,1,0,0,1,3
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,TOM,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",26,2,1,4,0,0,0,0,5,0,5,0,0,0,1,4
+nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,PYERRI,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",9,2,1,1,0,0,0,0,1,1,2,1,0,0,1,3
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,TAREK,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",4,1,0,0,0,0,1,2,2,1,3,0,0,0,0,1
+nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,GOMES,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",8,0,0,3,0,1,0,0,0,2,2,0,0,0,2,2
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",22,0,0,1,0,7,0,0,1,1,2,1,0,1,2,3
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,CAUA,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,SAMUEL,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",4,0,0,0,0,0,0,0,1,0,1,0,0,0,1,2
-nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,GOMES,BASQUETE CEARENSE,"2026-10-22, BCE vs PIN",8,0,0,3,0,1,0,0,0,2,2,0,0,0,2,2
-nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-10-22, BCE vs PIN",24,18,2,2,3,8,5,6,3,2,5,2,3,0,2,0
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,NESBITT,PINHEIROS,"2026-10-22, BCE vs PIN",12,18,6,6,1,1,3,3,2,0,2,0,2,0,4,4
-nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,BRAYAN,PINHEIROS,"2026-10-22, BCE vs PIN",28,12,4,7,1,1,1,2,8,2,10,4,0,1,0,3
+nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-10-22, BCE vs PIN",24,18,2,2,3,8,5,6,3,2,5,2,3,0,2,0
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,BORACINA,PINHEIROS,"2026-10-22, BCE vs PIN",21,12,1,3,2,4,4,4,5,0,5,3,1,0,2,3
+nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,BRAYAN,PINHEIROS,"2026-10-22, BCE vs PIN",28,12,4,7,1,1,1,2,8,2,10,4,0,1,0,3
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,VEZARO,PINHEIROS,"2026-10-22, BCE vs PIN",24,9,2,2,1,3,2,5,3,1,4,4,0,0,2,0
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,GRIGOR,PINHEIROS,"2026-10-22, BCE vs PIN",25,8,1,2,2,4,0,0,2,1,3,0,1,0,1,4
 nbb-caixa-2026-27-basquete-cearense-63-x-98-pinheiros,2026-27,NBB,THOR,PINHEIROS,"2026-10-22, BCE vs PIN",16,6,2,2,0,1,2,4,7,1,8,0,0,0,0,1
@@ -301,8 +283,8 @@ nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians,2026-27,NBB,CAUE,CORINTHIA
 nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians,2026-27,NBB,VICTAO,CORINTHIANS,"2026-10-22, BRA vs COR",38,13,3,8,1,3,4,4,1,0,1,3,1,0,1,2
 nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-10-22, BRA vs COR",32,11,4,7,1,4,0,0,2,0,2,2,0,0,1,3
 nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians,2026-27,NBB,NOVAES,CORINTHIANS,"2026-10-22, BRA vs COR",12,6,2,4,0,0,2,2,1,1,2,1,0,0,1,4
-nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians,2026-27,NBB,CARDOSO,CORINTHIANS,"2026-10-22, BRA vs COR",18,4,0,0,1,2,1,2,2,1,3,0,0,0,0,3
 nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians,2026-27,NBB,LEAL,CORINTHIANS,"2026-10-22, BRA vs COR",6,4,2,2,0,0,0,0,1,0,1,0,0,0,0,0
+nbb-caixa-2026-27-caixa-brasilia-104-x-92-corinthians,2026-27,NBB,CARDOSO,CORINTHIANS,"2026-10-22, BRA vs COR",18,4,0,0,1,2,1,2,2,1,3,0,0,0,0,3
 nbb-caixa-2026-27-bauru-basket-61-x-79-mogi-basquete,2026-27,NBB,VIETA,BAURU BASKET,"2026-10-23, BAU vs MOG",28,16,4,9,2,7,2,4,3,1,4,0,0,0,0,2
 nbb-caixa-2026-27-bauru-basket-61-x-79-mogi-basquete,2026-27,NBB,HARRIS,BAURU BASKET,"2026-10-23, BAU vs MOG",33,14,4,11,2,6,0,0,5,0,5,2,1,0,1,1
 nbb-caixa-2026-27-bauru-basket-61-x-79-mogi-basquete,2026-27,NBB,THYGESEN,BAURU BASKET,"2026-10-23, BAU vs MOG",32,12,6,8,0,4,0,0,4,0,4,6,2,0,2,2
@@ -330,11 +312,11 @@ nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,FERNANDEZ,CAIXA/
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,GUEIROS,CAIXA/BRASILIA,"2026-10-24, BRA vs CAP",11,2,1,1,0,0,0,0,0,1,1,0,1,0,0,1
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,GUGA,CAIXA/BRASILIA,"2026-10-24, BRA vs CAP",4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,PAIVA,CAIXA/BRASILIA,"2026-10-24, BRA vs CAP",7,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2
-nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,TOVAR,PAULISTANO,"2026-10-24, BRA vs CAP",30,16,4,7,2,6,2,2,3,0,3,0,3,0,7,1
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,SEIXAS,PAULISTANO,"2026-10-24, BRA vs CAP",28,16,0,1,4,11,4,4,0,4,4,2,0,0,1,5
-nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,ANDERSON,PAULISTANO,"2026-10-24, BRA vs CAP",20,8,2,5,0,6,4,7,5,1,6,1,1,0,1,4
+nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,TOVAR,PAULISTANO,"2026-10-24, BRA vs CAP",30,16,4,7,2,6,2,2,3,0,3,0,3,0,7,1
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,MAIQUE,PAULISTANO,"2026-10-24, BRA vs CAP",22,8,3,7,0,3,2,3,3,4,7,1,0,0,1,3
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,MACEDO,PAULISTANO,"2026-10-24, BRA vs CAP",17,8,4,7,0,0,0,0,3,5,8,0,0,0,0,1
+nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,ANDERSON,PAULISTANO,"2026-10-24, BRA vs CAP",20,8,2,5,0,6,4,7,5,1,6,1,1,0,1,4
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,NICKEL,PAULISTANO,"2026-10-24, BRA vs CAP",26,7,0,4,1,7,4,4,0,2,2,2,1,0,1,0
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,RICH,PAULISTANO,"2026-10-24, BRA vs CAP",16,6,3,3,0,2,0,2,4,4,8,0,1,0,1,2
 nbb-caixa-2026-27-caixa-brasilia-91-x-73-paulistano,2026-27,NBB,GABRIEL,PAULISTANO,"2026-10-24, BRA vs CAP",12,3,1,1,0,1,1,1,0,1,1,0,1,0,2,0
@@ -346,17 +328,17 @@ nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,ALE,PATO BASQUETE,"
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,KAMGAIN,PATO BASQUETE,"2026-10-24, PAT vs BOT",25,13,5,9,1,5,0,2,4,0,4,9,1,0,3,3
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,BELLER,PATO BASQUETE,"2026-10-24, PAT vs BOT",28,12,1,4,2,5,4,4,2,1,3,1,0,0,0,2
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,GILLARD,PATO BASQUETE,"2026-10-24, PAT vs BOT",16,7,2,5,1,4,0,0,0,1,1,5,0,0,0,1
-nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,M. DOUGLAS,PATO BASQUETE,"2026-10-24, PAT vs BOT",21,4,2,3,0,0,0,0,2,3,5,2,2,1,1,2
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,FELIPE,PATO BASQUETE,"2026-10-24, PAT vs BOT",19,4,2,4,0,1,0,0,4,3,7,1,0,1,1,2
+nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,M. DOUGLAS,PATO BASQUETE,"2026-10-24, PAT vs BOT",21,4,2,3,0,0,0,0,2,3,5,2,2,1,1,2
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,THAYLOR,PATO BASQUETE,"2026-10-24, PAT vs BOT",14,3,0,2,1,4,0,0,0,1,1,2,0,0,1,4
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,G. RIBEIRO,PATO BASQUETE,"2026-10-24, PAT vs BOT",10,3,0,1,1,2,0,0,3,1,4,0,0,0,0,0
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,M. JAMELAO,PATO BASQUETE,"2026-10-24, PAT vs BOT",8,0,0,1,0,3,0,0,1,0,1,0,0,0,2,0
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,MUDRONJA,BOTAFOGO,"2026-10-24, PAT vs BOT",34,28,7,10,3,5,5,5,6,1,7,6,1,0,5,2
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,JP DEMETRIO,BOTAFOGO,"2026-10-24, PAT vs BOT",28,16,8,16,0,0,0,0,6,4,10,1,0,2,0,2
-nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,VINI CHAGAS,BOTAFOGO,"2026-10-24, PAT vs BOT",18,10,5,8,0,1,0,0,3,0,3,1,0,0,1,2
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,FISCHER,BOTAFOGO,"2026-10-24, PAT vs BOT",28,10,3,8,1,3,1,2,3,0,3,8,1,0,1,1
-nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,PEDRO NUNES,BOTAFOGO,"2026-10-24, PAT vs BOT",17,9,0,1,3,6,0,0,3,0,3,1,1,0,0,0
+nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,VINI CHAGAS,BOTAFOGO,"2026-10-24, PAT vs BOT",18,10,5,8,0,1,0,0,3,0,3,1,0,0,1,2
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,THORNTON,BOTAFOGO,"2026-10-24, PAT vs BOT",34,9,2,5,1,5,2,2,3,3,6,0,0,0,1,1
+nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,PEDRO NUNES,BOTAFOGO,"2026-10-24, PAT vs BOT",17,9,0,1,3,6,0,0,3,0,3,1,1,0,0,0
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,LUCAS,BOTAFOGO,"2026-10-24, PAT vs BOT",6,4,1,1,0,1,2,2,0,0,0,0,1,0,0,1
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,HUMBERTO,BOTAFOGO,"2026-10-24, PAT vs BOT",16,2,1,3,0,0,0,0,1,1,2,1,0,0,2,3
 nbb-caixa-2026-27-pato-basquete-89-x-88-botafogo,2026-27,NBB,VITHINHO,BOTAFOGO,"2026-10-24, PAT vs BOT",18,0,0,3,0,0,0,0,1,1,2,5,2,0,0,1
@@ -364,8 +346,8 @@ nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,CAUE,CORINTHIANS,"
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,NOVAES,CORINTHIANS,"2026-10-26, COR vs FRA",30,15,7,13,0,0,1,1,9,2,11,2,2,1,4,1
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,VICTAO,CORINTHIANS,"2026-10-26, COR vs FRA",28,11,4,8,1,3,0,0,4,4,8,2,1,0,1,0
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,CARDOSO,CORINTHIANS,"2026-10-26, COR vs FRA",21,10,4,6,0,1,2,3,4,4,8,2,0,2,1,2
-nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-10-26, COR vs FRA",32,9,1,5,2,4,1,2,5,1,6,2,0,0,2,3
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,ELINHO,CORINTHIANS,"2026-10-26, COR vs FRA",31,9,2,4,1,4,2,2,2,0,2,10,1,0,3,0
+nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-10-26, COR vs FRA",32,9,1,5,2,4,1,2,5,1,6,2,0,0,2,3
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,FIGUEIRA,CORINTHIANS,"2026-10-26, COR vs FRA",3,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,TICO FARIA,CORINTHIANS,"2026-10-26, COR vs FRA",22,3,0,1,1,4,0,0,1,0,1,4,0,0,3,1
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,LUIGGI,CORINTHIANS,"2026-10-26, COR vs FRA",1,2,0,1,0,0,2,2,1,0,1,0,0,0,0,0
@@ -374,9 +356,9 @@ nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,BAHIA,CORINTHIANS,
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,REYNAN,SESI FRANCA,"2026-10-26, COR vs FRA",29,14,3,8,2,6,2,3,3,0,3,2,2,0,4,3
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,DAVID JACKSON,SESI FRANCA,"2026-10-26, COR vs FRA",26,7,2,2,1,4,0,0,1,0,1,1,0,1,1,2
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,ANDREZAO,SESI FRANCA,"2026-10-26, COR vs FRA",26,6,3,9,0,0,0,0,3,6,9,0,2,0,1,0
-nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,VITINHO,SESI FRANCA,"2026-10-26, COR vs FRA",27,4,2,6,0,3,0,0,4,0,4,6,2,0,0,3
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,GUI,SESI FRANCA,"2026-10-26, COR vs FRA",27,4,0,1,1,4,1,2,2,0,2,0,1,0,2,1
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,VINI SANTOS,SESI FRANCA,"2026-10-26, COR vs FRA",12,4,2,4,0,1,0,0,0,0,0,0,0,0,1,2
+nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,VITINHO,SESI FRANCA,"2026-10-26, COR vs FRA",27,4,2,6,0,3,0,0,4,0,4,6,2,0,0,3
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,SOLANO,SESI FRANCA,"2026-10-26, COR vs FRA",4,2,1,2,0,0,0,0,0,1,1,0,0,0,0,0
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,MINEIRO,SESI FRANCA,"2026-10-26, COR vs FRA",25,2,1,3,0,4,0,0,1,0,1,1,1,2,0,0
 nbb-caixa-2026-27-corinthians-78-x-48-sesi-franca,2026-27,NBB,PARODI,SESI FRANCA,"2026-10-26, COR vs FRA",21,2,1,2,0,2,0,0,0,2,2,3,0,0,2,1
@@ -387,8 +369,8 @@ nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,PAULO,MOGI BASQUET
 nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,VON HAYDIN,MOGI BASQUETE,"2026-10-26, MOG vs UFC",37,11,1,5,3,8,0,0,5,3,8,6,1,0,1,1
 nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,RUIVO,MOGI BASQUETE,"2026-10-26, MOG vs UFC",28,8,1,1,2,7,0,0,0,1,1,1,1,0,2,3
 nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,BRITE,MOGI BASQUETE,"2026-10-26, MOG vs UFC",26,8,3,5,0,4,2,2,0,0,0,5,2,0,2,3
-nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,DIKEMBE,MOGI BASQUETE,"2026-10-26, MOG vs UFC",18,6,1,7,0,0,4,6,2,1,3,1,2,0,0,4
 nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,L. CAUE,MOGI BASQUETE,"2026-10-26, MOG vs UFC",21,6,3,6,0,0,0,2,4,1,5,0,2,1,1,2
+nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,DIKEMBE,MOGI BASQUETE,"2026-10-26, MOG vs UFC",18,6,1,7,0,0,4,6,2,1,3,1,2,0,0,4
 nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,FUZARO,MOGI BASQUETE,"2026-10-26, MOG vs UFC",11,2,1,3,0,1,0,0,0,2,2,1,0,0,1,2
 nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,PARANHOS,UNIFACISA,"2026-10-26, MOG vs UFC",16,14,6,10,0,0,2,2,3,0,3,1,0,0,2,4
 nbb-caixa-2026-27-mogi-basquete-78-x-70-unifacisa,2026-27,NBB,ANTONIO,UNIFACISA,"2026-10-26, MOG vs UFC",27,9,3,3,0,1,3,4,2,0,2,1,0,0,2,3
@@ -438,11 +420,11 @@ nbb-caixa-2026-27-itatiaiucu-cruzeiro-basquete-80-x-89-caixa-brasilia,2026-27,NB
 nbb-caixa-2026-27-itatiaiucu-cruzeiro-basquete-80-x-89-caixa-brasilia,2026-27,NBB,PAIVA,CAIXA/BRASILIA,"2026-10-27, CRU vs BRA",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,BRIDGEWATER,PINHEIROS,"2026-10-27, PIN vs UCO",25,18,3,7,2,6,6,9,2,3,5,2,1,0,2,0
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-10-27, PIN vs UCO",30,16,2,4,4,9,0,0,7,0,7,3,3,1,2,1
-nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,GREGATE,PINHEIROS,"2026-10-27, PIN vs UCO",25,7,0,0,2,5,1,2,5,1,6,5,3,0,2,3
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,VEZARO,PINHEIROS,"2026-10-27, PIN vs UCO",13,7,2,4,1,3,0,0,2,1,3,1,1,0,1,4
-nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,GOERINO,PINHEIROS,"2026-10-27, PIN vs UCO",15,6,3,3,0,0,0,1,1,1,2,0,0,0,2,0
+nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,GREGATE,PINHEIROS,"2026-10-27, PIN vs UCO",25,7,0,0,2,5,1,2,5,1,6,5,3,0,2,3
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,GRIGOR,PINHEIROS,"2026-10-27, PIN vs UCO",20,6,0,0,2,5,0,0,5,0,5,1,1,3,2,5
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,BRAYAN,PINHEIROS,"2026-10-27, PIN vs UCO",21,6,2,4,0,0,2,2,4,0,4,0,0,1,1,4
+nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,GOERINO,PINHEIROS,"2026-10-27, PIN vs UCO",15,6,3,3,0,0,0,1,1,1,2,0,0,0,2,0
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,BORACINA,PINHEIROS,"2026-10-27, PIN vs UCO",26,5,0,4,1,1,2,2,2,0,2,4,0,0,2,1
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,NESBITT,PINHEIROS,"2026-10-27, PIN vs UCO",23,4,2,7,0,2,0,0,1,2,3,0,1,0,1,4
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,THOR,PINHEIROS,"2026-10-27, PIN vs UCO",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -452,16 +434,16 @@ nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,GABRIEL,
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,EUGENIUSZ,CEISC/UNIAO CORINTHIANS,"2026-10-27, PIN vs UCO",25,9,3,5,0,4,3,3,2,1,3,4,4,0,7,5
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,CARDENAS,CEISC/UNIAO CORINTHIANS,"2026-10-27, PIN vs UCO",25,5,0,3,0,2,5,8,3,0,3,1,2,1,1,4
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,ENZO,CEISC/UNIAO CORINTHIANS,"2026-10-27, PIN vs UCO",16,3,0,0,1,3,0,0,2,0,2,3,0,1,0,0
+nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,VERISSIMO,CEISC/UNIAO CORINTHIANS,"2026-10-27, PIN vs UCO",19,2,1,5,0,0,0,3,4,2,6,0,0,0,2,0
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,JONATAN,CEISC/UNIAO CORINTHIANS,"2026-10-27, PIN vs UCO",11,2,1,2,0,2,0,0,0,0,0,1,0,0,0,2
 nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,CAIO,CEISC/UNIAO CORINTHIANS,"2026-10-27, PIN vs UCO",8,2,0,0,0,0,2,2,1,1,2,0,0,0,1,0
-nbb-caixa-2026-27-pinheiros-75-x-63-ceisc-uniao-corinthians,2026-27,NBB,VERISSIMO,CEISC/UNIAO CORINTHIANS,"2026-10-27, PIN vs UCO",19,2,1,5,0,0,0,3,4,2,6,0,0,0,2,0
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,SEIXAS,PAULISTANO,"2026-10-28, CAP vs FRA",34,18,2,5,4,7,2,2,1,1,2,2,0,0,2,2
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,TOVAR,PAULISTANO,"2026-10-28, CAP vs FRA",29,13,4,7,1,6,2,2,3,2,5,1,2,0,4,1
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,LEANDRO,PAULISTANO,"2026-10-28, CAP vs FRA",26,10,1,2,2,5,2,2,1,0,1,1,1,2,0,3
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,ANDERSON,PAULISTANO,"2026-10-28, CAP vs FRA",28,7,2,5,1,2,0,0,2,2,4,2,0,0,2,5
-nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,MAIQUE,PAULISTANO,"2026-10-28, CAP vs FRA",17,4,1,3,0,2,2,2,1,3,4,0,0,0,2,4
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,MACEDO,PAULISTANO,"2026-10-28, CAP vs FRA",18,4,2,4,0,0,0,0,1,2,3,0,2,2,1,1
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,RICH,PAULISTANO,"2026-10-28, CAP vs FRA",22,4,1,4,0,1,2,3,6,2,8,1,2,1,2,4
+nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,MAIQUE,PAULISTANO,"2026-10-28, CAP vs FRA",17,4,1,3,0,2,2,2,1,3,4,0,0,0,2,4
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,NICKEL,PAULISTANO,"2026-10-28, CAP vs FRA",21,3,0,3,0,1,3,4,1,0,1,2,1,0,2,1
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,GABRIEL,PAULISTANO,"2026-10-28, CAP vs FRA",3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,DIEGO ZAGO,PAULISTANO,"2026-10-28, CAP vs FRA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -474,11 +456,31 @@ nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,REYNAN,SESI FRANCA,
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,MINEIRO,SESI FRANCA,"2026-10-28, CAP vs FRA",30,4,1,1,0,3,2,2,4,1,5,2,1,0,2,1
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,SOLANO,SESI FRANCA,"2026-10-28, CAP vs FRA",4,3,0,0,1,1,0,0,0,0,0,0,0,0,1,0
 nbb-caixa-2026-27-paulistano-65-x-62-sesi-franca,2026-27,NBB,VINI SANTOS,SESI FRANCA,"2026-10-28, CAP vs FRA",6,2,1,1,0,1,0,0,0,0,0,0,0,0,0,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,PAYTON,SAO JOSE,"2026-10-28, SJO vs UFC",31,16,5,11,2,5,0,0,3,1,4,4,1,0,0,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,DERICK,SAO JOSE,"2026-10-28, SJO vs UFC",30,15,3,8,2,3,3,3,1,5,6,3,2,0,3,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,G. PESSOA,SAO JOSE,"2026-10-28, SJO vs UFC",11,14,1,3,3,3,3,4,1,0,1,1,0,0,1,3
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,THOMPSON,SAO JOSE,"2026-10-28, SJO vs UFC",26,12,3,7,2,6,0,0,1,0,1,6,0,0,0,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,CRAVERO,SAO JOSE,"2026-10-28, SJO vs UFC",21,12,5,5,0,2,2,2,4,2,6,2,1,0,0,1
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,MURILO,SAO JOSE,"2026-10-28, SJO vs UFC",28,7,2,4,1,4,0,0,1,2,3,2,2,3,1,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,SCHEUER,SAO JOSE,"2026-10-28, SJO vs UFC",26,4,1,8,0,0,2,3,5,3,8,3,1,0,2,3
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,GUIMARAES,SAO JOSE,"2026-10-28, SJO vs UFC",18,3,0,5,1,4,0,0,1,2,3,2,0,0,2,1
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,SOTO,SAO JOSE,"2026-10-28, SJO vs UFC",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,DUARTE,SAO JOSE,"2026-10-28, SJO vs UFC",7,0,0,2,0,0,0,0,2,1,3,0,0,0,3,3
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,M. BONFIM,UNIFACISA,"2026-10-28, SJO vs UFC",21,19,7,8,0,1,5,8,3,2,5,1,0,5,0,3
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,HINKLE,UNIFACISA,"2026-10-28, SJO vs UFC",27,18,4,6,3,5,1,1,7,0,7,1,1,0,0,1
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,PARANHOS,UNIFACISA,"2026-10-28, SJO vs UFC",19,17,7,14,0,0,3,5,2,3,5,1,1,0,0,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,FIGUEREDO,UNIFACISA,"2026-10-28, SJO vs UFC",28,12,2,2,2,3,2,2,4,0,4,6,0,0,1,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,ANTONIO,UNIFACISA,"2026-10-28, SJO vs UFC",26,11,3,5,1,6,2,2,3,1,4,6,1,0,1,0
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,JOAO PAULO,UNIFACISA,"2026-10-28, SJO vs UFC",14,7,2,3,0,1,3,3,1,1,2,0,1,1,0,1
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,WEAVER,UNIFACISA,"2026-10-28, SJO vs UFC",27,7,2,4,1,2,0,0,4,0,4,5,1,1,3,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,MATHEUSINHO,UNIFACISA,"2026-10-28, SJO vs UFC",19,4,2,2,0,2,0,0,2,1,3,7,0,0,2,2
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,JIMMY,UNIFACISA,"2026-10-28, SJO vs UFC",14,2,1,2,0,3,0,0,3,2,5,0,2,0,1,1
+nbb-caixa-2026-27-sao-jose-83-x-97-unifacisa,2026-27,NBB,FLORES,UNIFACISA,"2026-10-28, SJO vs UFC",5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
 nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,VINI CHAGAS,BOTAFOGO,"2026-10-28, BOT vs CAX",34,27,12,16,1,1,0,0,8,1,9,2,0,2,1,3
 nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,MUDRONJA,BOTAFOGO,"2026-10-28, BOT vs CAX",33,26,7,10,1,2,9,9,3,2,5,5,2,1,2,0
 nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,VITHINHO,BOTAFOGO,"2026-10-28, BOT vs CAX",31,11,1,5,2,5,3,8,2,0,2,8,1,0,2,3
-nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,LUCAS,BOTAFOGO,"2026-10-28, BOT vs CAX",11,6,3,4,0,2,0,0,0,0,0,1,1,0,0,2
 nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,HUMBERTO,BOTAFOGO,"2026-10-28, BOT vs CAX",30,6,3,4,0,0,0,0,3,0,3,4,0,0,2,3
+nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,LUCAS,BOTAFOGO,"2026-10-28, BOT vs CAX",11,6,3,4,0,2,0,0,0,0,0,1,1,0,0,2
 nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,THORNTON,BOTAFOGO,"2026-10-28, BOT vs CAX",38,4,1,5,0,2,2,3,4,1,5,1,2,0,1,2
 nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,JP DEMETRIO,BOTAFOGO,"2026-10-28, BOT vs CAX",13,4,2,2,0,0,0,0,0,1,1,1,0,1,0,1
 nbb-caixa-2026-27-botafogo-84-x-82-caxias-do-sul,2026-27,NBB,FISCHER,BOTAFOGO,"2026-10-28, BOT vs CAX",8,0,0,0,0,2,0,0,0,0,0,2,0,0,0,1
@@ -507,9 +509,9 @@ nbb-caixa-2026-27-itatiaiucu-cruzeiro-76-x-68-pato-basquete,2026-27,NBB,FELIPE,P
 nbb-caixa-2026-27-itatiaiucu-cruzeiro-76-x-68-pato-basquete,2026-27,NBB,KAMGAIN,PATO BASQUETE,"2026-10-29, CRU vs PAT",23,8,0,4,2,7,2,2,0,1,1,4,1,0,3,2
 nbb-caixa-2026-27-itatiaiucu-cruzeiro-76-x-68-pato-basquete,2026-27,NBB,M. JAMELAO,PATO BASQUETE,"2026-10-29, CRU vs PAT",18,6,0,2,2,5,0,0,1,0,1,6,0,0,2,2
 nbb-caixa-2026-27-itatiaiucu-cruzeiro-76-x-68-pato-basquete,2026-27,NBB,ALE,PATO BASQUETE,"2026-10-29, CRU vs PAT",20,5,1,5,1,2,0,0,1,2,3,6,2,0,4,2
-nbb-caixa-2026-27-itatiaiucu-cruzeiro-76-x-68-pato-basquete,2026-27,NBB,THAYLOR,PATO BASQUETE,"2026-10-29, CRU vs PAT",13,2,1,3,0,1,0,0,2,1,3,1,1,0,2,2
 nbb-caixa-2026-27-itatiaiucu-cruzeiro-76-x-68-pato-basquete,2026-27,NBB,G. RIBEIRO,PATO BASQUETE,"2026-10-29, CRU vs PAT",9,2,1,2,0,1,0,0,3,1,4,0,0,0,0,2
 nbb-caixa-2026-27-itatiaiucu-cruzeiro-76-x-68-pato-basquete,2026-27,NBB,ANJOS,PATO BASQUETE,"2026-10-29, CRU vs PAT",26,2,0,0,0,3,2,2,5,0,5,0,1,0,2,3
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-76-x-68-pato-basquete,2026-27,NBB,THAYLOR,PATO BASQUETE,"2026-10-29, CRU vs PAT",13,2,1,3,0,1,0,0,2,1,3,1,1,0,2,2
 nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,SANTOS,MINAS STORM,"2026-10-29, MIN vs BRA",26,18,7,8,0,0,4,5,7,2,9,2,2,1,1,1
 nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,CLARK,MINAS STORM,"2026-10-29, MIN vs BRA",29,16,1,5,4,8,2,2,4,1,5,3,1,1,3,1
 nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,COELHO,MINAS STORM,"2026-10-29, MIN vs BRA",22,12,3,5,2,4,0,1,1,0,1,6,0,0,1,0
@@ -528,13 +530,13 @@ nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,RAYMUNDO,CAIXA
 nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,AUGUSTO,CAIXA/BRASILIA,"2026-10-29, MIN vs BRA",18,4,2,2,0,3,0,0,1,0,1,4,3,0,3,3
 nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,CYLLA,CAIXA/BRASILIA,"2026-10-29, MIN vs BRA",30,4,2,8,0,5,0,0,3,0,3,1,3,0,1,2
 nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,PAIVA,CAIXA/BRASILIA,"2026-10-29, MIN vs BRA",5,1,0,0,0,1,1,2,0,1,1,0,1,0,0,0
-nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,GUEIROS,CAIXA/BRASILIA,"2026-10-29, MIN vs BRA",7,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,GUGA,CAIXA/BRASILIA,"2026-10-29, MIN vs BRA",3,0,0,2,0,0,0,0,0,1,1,0,0,0,1,0
+nbb-caixa-2026-27-minas-storm-100-x-61-caixa-brasilia,2026-27,NBB,GUEIROS,CAIXA/BRASILIA,"2026-10-29, MIN vs BRA",7,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,JJ,BASKET OSASCO,"2026-10-29, OSA vs PIN",32,34,5,11,6,12,6,6,4,0,4,1,2,0,4,3
-nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,JON,BASKET OSASCO,"2026-10-29, OSA vs PIN",21,7,1,2,1,3,2,2,4,0,4,0,0,0,0,2
 nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,VINICIUS,BASKET OSASCO,"2026-10-29, OSA vs PIN",26,7,0,4,1,5,4,4,2,1,3,4,1,0,6,5
-nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,FIDELIS,BASKET OSASCO,"2026-10-29, OSA vs PIN",20,6,1,3,0,0,4,4,4,1,5,1,1,1,3,3
+nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,JON,BASKET OSASCO,"2026-10-29, OSA vs PIN",21,7,1,2,1,3,2,2,4,0,4,0,0,0,0,2
 nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,LESSA,BASKET OSASCO,"2026-10-29, OSA vs PIN",24,6,2,5,0,4,2,2,1,0,1,2,3,0,5,3
+nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,FIDELIS,BASKET OSASCO,"2026-10-29, OSA vs PIN",20,6,1,3,0,0,4,4,4,1,5,1,1,1,3,3
 nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,GABRIEL,BASKET OSASCO,"2026-10-29, OSA vs PIN",16,5,1,4,0,0,3,5,2,3,5,0,0,1,0,1
 nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,BARRY,BASKET OSASCO,"2026-10-29, OSA vs PIN",24,4,0,2,0,2,4,4,5,5,10,0,1,0,2,2
 nbb-caixa-2026-27-basket-osasco-74-x-89-pinheiros,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-10-29, OSA vs PIN",27,3,0,1,1,4,0,0,1,2,3,3,3,0,3,3
@@ -577,8 +579,8 @@ nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,VINI CHAG
 nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,MUDRONJA,BOTAFOGO,"2026-10-30, BOT vs UCO",36,7,2,6,0,2,3,3,4,0,4,6,1,0,1,0
 nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,VITHINHO,BOTAFOGO,"2026-10-30, BOT vs UCO",23,7,1,1,1,1,2,2,2,0,2,5,1,0,1,1
 nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,LUCAS,BOTAFOGO,"2026-10-30, BOT vs UCO",2,6,0,0,2,3,0,0,0,0,0,0,0,0,1,1
-nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,EUGENIUSZ,CEISC/UNIAO CORINTHIANS,"2026-10-30, BOT vs UCO",28,19,4,5,3,8,2,3,5,1,6,2,1,0,1,3
 nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,CARDENAS,CEISC/UNIAO CORINTHIANS,"2026-10-30, BOT vs UCO",30,19,8,11,1,5,0,0,3,6,9,1,1,0,4,2
+nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,EUGENIUSZ,CEISC/UNIAO CORINTHIANS,"2026-10-30, BOT vs UCO",28,19,4,5,3,8,2,3,5,1,6,2,1,0,1,3
 nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,MUNFORD,CEISC/UNIAO CORINTHIANS,"2026-10-30, BOT vs UCO",31,14,6,10,0,5,2,2,2,6,8,2,1,0,0,3
 nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,RENATO,CEISC/UNIAO CORINTHIANS,"2026-10-30, BOT vs UCO",28,13,5,6,1,4,0,0,1,0,1,1,0,0,0,1
 nbb-caixa-2026-27-botafogo-80-x-87-ceisc-uniao-corinthians,2026-27,NBB,GABRIEL,CEISC/UNIAO CORINTHIANS,"2026-10-30, BOT vs UCO",33,10,3,4,0,6,4,4,3,4,7,9,1,0,2,1
@@ -631,23 +633,23 @@ nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,GOERINO,PINHEIROS,
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,THOR,PINHEIROS,"2026-11-02, PIN vs CAX",11,4,0,2,1,1,1,2,1,1,2,2,0,0,1,3
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,GREGATE,PINHEIROS,"2026-11-02, PIN vs CAX",20,2,0,2,0,2,2,2,6,1,7,5,0,0,2,2
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,NESBITT,PINHEIROS,"2026-11-02, PIN vs CAX",15,2,0,1,0,1,2,2,1,2,3,1,0,0,1,1
-nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,DIEGER,PINHEIROS,"2026-11-02, PIN vs CAX",9,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,DANILLO,PINHEIROS,"2026-11-02, PIN vs CAX",2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,DIEGER,PINHEIROS,"2026-11-02, PIN vs CAX",9,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,PEDRO,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",28,15,3,4,2,3,3,3,0,0,0,4,1,0,2,1
-nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,NK,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",30,9,3,7,0,1,3,4,6,0,6,0,0,0,1,2
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,NAKA,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",22,9,3,4,0,2,3,4,1,0,1,0,2,1,2,5
+nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,NK,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",30,9,3,7,0,1,3,4,6,0,6,0,0,0,1,2
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,JHONATAN,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",9,6,3,6,0,0,0,1,1,1,2,0,1,1,0,1
-nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,BOLIVAR,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",13,3,0,1,1,6,0,0,1,0,1,1,0,0,0,3
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,OMENA,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",33,3,0,1,1,4,0,0,1,0,1,1,1,0,2,0
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,RAFA,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",15,3,0,3,0,1,3,4,2,2,4,2,0,0,1,3
+nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,BOLIVAR,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",13,3,0,1,1,6,0,0,1,0,1,1,0,0,0,3
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,MIGUEL,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",18,2,1,2,0,1,0,0,5,1,6,0,0,0,1,0
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,GUSTAVO,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",6,2,0,1,0,3,2,2,0,1,1,0,0,0,1,1
 nbb-caixa-2026-27-pinheiros-91-x-53-caxias-do-sul,2026-27,NBB,ISAAC R.,CAXIAS DO SUL,"2026-11-02, PIN vs CAX",26,1,0,3,0,6,1,2,1,1,2,1,0,0,2,1
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,CRESCENZI,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",39,27,4,7,6,8,1,1,8,1,9,6,3,0,3,0
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,CYLLA,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",32,18,4,10,2,5,4,6,5,3,8,0,1,1,2,2
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,RAYMUNDO,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",33,11,5,8,0,2,1,4,8,6,14,0,1,0,3,1
-nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,BUIU,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",29,6,2,6,0,4,2,2,2,1,3,2,1,0,2,5
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,BASTIAN,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",8,6,2,3,0,0,2,3,0,1,1,0,0,0,0,1
+nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,BUIU,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",29,6,2,6,0,4,2,2,2,1,3,2,1,0,2,5
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,FERNANDEZ,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",32,5,0,3,1,8,2,2,4,1,5,1,2,1,0,4
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,AUGUSTO,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",19,2,0,2,0,1,2,2,0,0,0,4,1,0,0,5
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,GUEIROS,CAIXA/BRASILIA,"2026-11-02, BRA vs BOT",6,1,0,0,0,3,1,2,1,1,2,0,1,0,0,1
@@ -661,8 +663,8 @@ nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,VINI CHAGAS,BOTAFO
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,LUCAS,BOTAFOGO,"2026-11-02, BRA vs BOT",11,0,0,0,0,2,0,0,1,0,1,0,0,0,0,2
 nbb-caixa-2026-27-caixa-brasilia-76-x-77-botafogo,2026-27,NBB,JP DEMETRIO,BOTAFOGO,"2026-11-02, BRA vs BOT",5,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1
 nbb-caixa-2026-27-sao-jose-basketball-96-x-53-basquete-cearense,2026-27,NBB,DERICK,SAO JOSE,"2026-11-02, SJO vs BCE",18,20,5,6,1,1,7,8,3,0,3,8,2,0,1,3
-nbb-caixa-2026-27-sao-jose-basketball-96-x-53-basquete-cearense,2026-27,NBB,DUARTE,SAO JOSE,"2026-11-02, SJO vs BCE",19,19,6,8,0,0,7,11,7,2,9,1,0,3,5,4
 nbb-caixa-2026-27-sao-jose-basketball-96-x-53-basquete-cearense,2026-27,NBB,PAYTON,SAO JOSE,"2026-11-02, SJO vs BCE",23,19,3,6,4,9,1,2,1,2,3,3,2,0,1,1
+nbb-caixa-2026-27-sao-jose-basketball-96-x-53-basquete-cearense,2026-27,NBB,DUARTE,SAO JOSE,"2026-11-02, SJO vs BCE",19,19,6,8,0,0,7,11,7,2,9,1,0,3,5,4
 nbb-caixa-2026-27-sao-jose-basketball-96-x-53-basquete-cearense,2026-27,NBB,MURILO,SAO JOSE,"2026-11-02, SJO vs BCE",20,8,2,4,0,2,4,6,0,1,1,0,0,1,2,1
 nbb-caixa-2026-27-sao-jose-basketball-96-x-53-basquete-cearense,2026-27,NBB,JACKSON JR.,SAO JOSE,"2026-11-02, SJO vs BCE",12,7,1,1,1,3,2,2,1,1,2,0,1,0,0,2
 nbb-caixa-2026-27-sao-jose-basketball-96-x-53-basquete-cearense,2026-27,NBB,GUIMARAES,SAO JOSE,"2026-11-02, SJO vs BCE",18,6,1,2,0,0,4,5,3,1,4,2,0,0,3,4
@@ -685,26 +687,26 @@ nbb-caixa-2026-27-sao-jose-basketball-96-x-53-basquete-cearense,2026-27,NBB,V. C
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,HARRIS,BAURU BASKET,"2026-11-03, BAU vs CRU",31,24,7,9,2,7,4,6,3,1,4,0,0,1,1,3
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,BENNETT,BAURU BASKET,"2026-11-03, BAU vs CRU",30,12,4,7,1,2,1,1,3,1,4,4,0,0,0,3
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,VIETA,BAURU BASKET,"2026-11-03, BAU vs CRU",23,10,5,5,0,2,0,0,1,0,1,1,2,0,2,4
-nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,ALEX,BAURU BASKET,"2026-11-03, BAU vs CRU",22,6,2,2,0,4,2,2,1,0,1,4,2,0,3,2
-nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,VITOR,BAURU BASKET,"2026-11-03, BAU vs CRU",11,6,1,2,0,0,4,6,3,0,3,0,1,0,1,4
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,RODRIGUES,BAURU BASKET,"2026-11-03, BAU vs CRU",28,6,3,5,0,0,0,0,3,0,3,0,0,0,2,4
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,THYGESEN,BAURU BASKET,"2026-11-03, BAU vs CRU",21,6,2,5,0,5,2,2,6,1,7,7,1,0,2,4
+nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,ALEX,BAURU BASKET,"2026-11-03, BAU vs CRU",22,6,2,2,0,4,2,2,1,0,1,4,2,0,3,2
+nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,VITOR,BAURU BASKET,"2026-11-03, BAU vs CRU",11,6,1,2,0,0,4,6,3,0,3,0,1,0,1,4
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,GUSTAVO,BAURU BASKET,"2026-11-03, BAU vs CRU",28,4,1,3,0,3,2,2,7,1,8,3,0,2,1,2
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,MOGI,BAURU BASKET,"2026-11-03, BAU vs CRU",4,0,0,1,0,4,0,0,1,2,3,0,0,0,0,0
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,CAIO,BAURU BASKET,"2026-11-03, BAU vs CRU",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,ADYEL,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",29,23,9,13,0,5,5,7,5,1,6,3,1,0,2,4
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,MENCA,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",25,21,6,9,0,6,9,9,4,1,5,1,2,0,3,3
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,LEO ABREU,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",26,8,2,3,1,2,1,3,9,1,10,3,1,0,1,2
+nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,QUEIROS,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",29,6,2,6,0,4,2,2,3,3,6,4,0,1,1,2
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,EMERSON SILVA,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",14,6,1,3,0,1,4,6,2,3,5,0,0,0,1,2
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,GERSON,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",36,6,3,10,0,0,0,0,6,7,13,2,3,2,0,2
-nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,QUEIROS,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",29,6,2,6,0,4,2,2,3,3,6,4,0,1,1,2
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,CASSIANO,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",18,5,2,7,0,2,1,1,1,1,2,1,1,0,1,0
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,ANSALONI,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",4,3,0,0,1,1,0,0,0,0,0,1,0,0,2,3
 nbb-caixa-2026-27-bauru-basket-74-x-78-itatiaiucu-cruzeiro,2026-27,NBB,NIQUE COLEMAN,ITATIAIUCU CRUZEIRO,"2026-11-03, BAU vs CRU",18,0,0,0,0,3,0,0,2,0,2,1,0,0,2,0
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,MINEIRO,SESI FRANCA,"2026-11-03, FRA vs MIN",28,15,3,6,3,6,0,0,6,0,6,0,3,1,1,4
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,VITINHO,SESI FRANCA,"2026-11-03, FRA vs MIN",39,15,2,2,3,8,2,2,1,1,2,7,1,0,1,1
-nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,DAVID JACKSON,SESI FRANCA,"2026-11-03, FRA vs MIN",28,11,2,4,2,6,1,1,0,0,0,2,1,1,0,4
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,GUI,SESI FRANCA,"2026-11-03, FRA vs MIN",34,11,1,2,2,9,3,4,5,0,5,4,1,0,3,1
+nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,DAVID JACKSON,SESI FRANCA,"2026-11-03, FRA vs MIN",28,11,2,4,2,6,1,1,0,0,0,2,1,1,0,4
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,VINI SANTOS,SESI FRANCA,"2026-11-03, FRA vs MIN",11,8,1,1,2,3,0,0,0,2,2,0,0,0,0,0
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,REYNAN,SESI FRANCA,"2026-11-03, FRA vs MIN",19,6,2,5,0,3,2,3,0,0,0,0,1,0,0,0
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,ANDREZAO,SESI FRANCA,"2026-11-03, FRA vs MIN",21,5,1,3,0,0,3,4,1,1,2,0,0,0,1,0
@@ -716,11 +718,11 @@ nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,WESLEY,MINAS STORM
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,COELHO,MINAS STORM,"2026-11-03, FRA vs MIN",18,9,3,6,1,2,0,0,2,0,2,1,0,0,2,1
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,R. RACHEL,MINAS STORM,"2026-11-03, FRA vs MIN",22,7,2,4,1,3,0,0,3,1,4,0,0,0,1,1
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,NEPTUNE,MINAS STORM,"2026-11-03, FRA vs MIN",22,7,2,3,1,2,0,0,4,1,5,4,0,1,1,2
-nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,SANTOS,MINAS STORM,"2026-11-03, FRA vs MIN",15,6,3,4,0,0,0,0,1,1,2,0,0,1,0,0
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,HOLLOWELL,MINAS STORM,"2026-11-03, FRA vs MIN",27,6,3,6,0,1,0,1,7,4,11,3,0,0,4,2
+nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,SANTOS,MINAS STORM,"2026-11-03, FRA vs MIN",15,6,3,4,0,0,0,0,1,1,2,0,0,1,0,0
 nbb-caixa-2026-27-sesi-franca-76-x-87-minas-storm,2026-27,NBB,ABREU,MINAS STORM,"2026-11-03, FRA vs MIN",18,5,2,4,0,1,1,2,1,2,3,0,0,0,0,1
-nbb-caixa-2026-27-unifacisa-71-x-63-paulistano,2026-27,NBB,FIGUEREDO,UNIFACISA,"2026-11-04, UFC vs CAP",29,16,2,3,4,8,0,0,1,1,2,6,2,0,3,2
 nbb-caixa-2026-27-unifacisa-71-x-63-paulistano,2026-27,NBB,WEAVER,UNIFACISA,"2026-11-04, UFC vs CAP",33,16,4,6,2,4,2,2,4,0,4,2,1,0,5,4
+nbb-caixa-2026-27-unifacisa-71-x-63-paulistano,2026-27,NBB,FIGUEREDO,UNIFACISA,"2026-11-04, UFC vs CAP",29,16,2,3,4,8,0,0,1,1,2,6,2,0,3,2
 nbb-caixa-2026-27-unifacisa-71-x-63-paulistano,2026-27,NBB,ANTONIO,UNIFACISA,"2026-11-04, UFC vs CAP",25,10,2,2,2,3,0,0,1,0,1,0,2,0,5,4
 nbb-caixa-2026-27-unifacisa-71-x-63-paulistano,2026-27,NBB,PARANHOS,UNIFACISA,"2026-11-04, UFC vs CAP",25,7,3,7,0,0,1,2,7,2,9,1,0,0,2,2
 nbb-caixa-2026-27-unifacisa-71-x-63-paulistano,2026-27,NBB,MATHEUSINHO,UNIFACISA,"2026-11-04, UFC vs CAP",15,6,3,5,0,2,0,0,1,0,1,1,0,0,3,0
@@ -745,18 +747,18 @@ nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,BRITE,MOGI
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,LUCAS DIAS,MOGI BASQUETE,"2026-11-04, MOG vs BCE",18,6,0,0,1,5,3,4,1,1,2,2,2,0,4,2
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,DIKEMBE,MOGI BASQUETE,"2026-11-04, MOG vs BCE",26,5,2,2,0,0,1,2,6,1,7,2,1,2,1,3
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,PAULO,MOGI BASQUETE,"2026-11-04, MOG vs BCE",18,4,0,1,1,3,1,2,3,1,4,3,0,0,1,4
+nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,FUZARO,MOGI BASQUETE,"2026-11-04, MOG vs BCE",8,2,1,1,0,2,0,1,1,1,2,0,1,0,1,1
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,VITORIANO,MOGI BASQUETE,"2026-11-04, MOG vs BCE",7,2,1,1,0,1,0,0,0,1,1,0,0,0,0,2
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,L. CAUE,MOGI BASQUETE,"2026-11-04, MOG vs BCE",5,2,1,2,0,0,0,0,1,0,1,0,0,1,0,0
-nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,FUZARO,MOGI BASQUETE,"2026-11-04, MOG vs BCE",8,2,1,1,0,2,0,1,1,1,2,0,1,0,1,1
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,DUPREE,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",39,22,4,9,4,8,2,2,4,1,5,5,3,0,4,3
-nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,DANIELS,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",40,16,1,6,4,7,2,4,6,2,8,5,0,0,1,3
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,GABRIEL,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",39,16,1,4,3,5,5,5,4,0,4,3,1,0,4,4
+nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,DANIELS,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",40,16,1,6,4,7,2,4,6,2,8,5,0,0,1,3
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,PYERRI,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",29,15,7,10,0,0,1,2,3,2,5,0,1,1,3,3
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,TOM,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",24,6,1,5,0,0,4,4,2,2,4,1,2,0,2,4
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,LUAN,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",22,0,0,5,0,0,0,0,3,2,5,1,0,0,0,2
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,SAMUEL,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",5,0,0,1,0,0,0,0,1,0,1,0,0,0,1,2
 nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,AUGUSTO,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-nbb-caixa-2026-27-mogi-basquete-89-x-78-basquete-cearense,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-11-04, MOG vs BCE",22,0,0,5,0,0,0,0,3,2,5,1,0,0,0,2
 nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,BUIU,CAIXA/BRASILIA,"2026-11-04, BRA vs FLA",36,24,0,4,6,7,6,6,2,1,3,5,4,0,1,2
 nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,RAYMUNDO,CAIXA/BRASILIA,"2026-11-04, BRA vs FLA",28,18,4,7,2,2,4,6,5,1,6,1,0,0,4,3
 nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,FERNANDEZ,CAIXA/BRASILIA,"2026-11-04, BRA vs FLA",32,14,4,6,2,3,0,1,3,1,4,0,1,1,1,4
@@ -773,14 +775,14 @@ nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,DOS SANTOS,FLAMENG
 nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,MONTERO,FLAMENGO,"2026-11-04, BRA vs FLA",32,7,2,5,1,6,0,0,4,3,7,3,3,1,1,2
 nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,MANEL,FLAMENGO,"2026-11-04, BRA vs FLA",8,4,2,2,0,0,0,0,1,2,3,0,0,0,0,0
 nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,RUAN,FLAMENGO,"2026-11-04, BRA vs FLA",14,2,1,4,0,1,0,0,4,4,8,0,1,0,1,2
+nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,IGOR,FLAMENGO,"2026-11-04, BRA vs FLA",13,0,0,0,0,2,0,0,1,1,2,0,2,0,0,1
 nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,ONWENU,FLAMENGO,"2026-11-04, BRA vs FLA",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,BARALLE,FLAMENGO,"2026-11-04, BRA vs FLA",17,0,0,0,0,2,0,0,1,1,2,3,0,0,1,2
-nbb-caixa-2026-27-caixa-brasilia-87-x-91-flamengo,2026-27,NBB,IGOR,FLAMENGO,"2026-11-04, BRA vs FLA",13,0,0,0,0,2,0,0,1,1,2,0,2,0,0,1
 nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,HARRIS,BAURU BASKET,"2026-11-05, BAU vs MIN",36,17,5,10,1,5,4,5,1,0,1,4,4,0,3,3
 nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,ALEX,BAURU BASKET,"2026-11-05, BAU vs MIN",30,15,2,5,3,9,2,4,2,2,4,4,2,0,2,1
 nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,BENNETT,BAURU BASKET,"2026-11-05, BAU vs MIN",30,11,4,6,1,5,0,0,1,0,1,1,0,0,2,3
-nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,VIETA,BAURU BASKET,"2026-11-05, BAU vs MIN",29,5,1,2,1,5,0,0,4,0,4,1,1,0,2,2
 nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,GUSTAVO,BAURU BASKET,"2026-11-05, BAU vs MIN",13,5,1,1,1,2,0,0,2,0,2,1,2,0,1,0
+nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,VIETA,BAURU BASKET,"2026-11-05, BAU vs MIN",29,5,1,2,1,5,0,0,4,0,4,1,1,0,2,2
 nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,RODRIGUES,BAURU BASKET,"2026-11-05, BAU vs MIN",15,4,2,4,0,0,0,0,3,0,3,0,0,0,1,4
 nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,CAIO,BAURU BASKET,"2026-11-05, BAU vs MIN",16,3,0,1,1,3,0,0,0,0,0,0,1,0,1,4
 nbb-caixa-2026-27-bauru-basket-64-x-77-minas-storm,2026-27,NBB,VITOR,BAURU BASKET,"2026-11-05, BAU vs MIN",7,2,1,2,0,0,0,0,0,0,0,0,0,0,1,4
@@ -804,9 +806,9 @@ nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,VINI SANTO
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,REYNAN,SESI FRANCA,"2026-11-05, FRA vs CRU",22,8,3,6,0,1,2,6,2,1,3,4,1,1,0,4
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,MINEIRO,SESI FRANCA,"2026-11-05, FRA vs CRU",22,7,2,2,1,4,0,0,1,1,2,1,0,1,1,2
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,SOLANO,SESI FRANCA,"2026-11-05, FRA vs CRU",15,2,1,1,0,1,0,0,1,0,1,0,0,1,3,4
-nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,ALE,SESI FRANCA,"2026-11-05, FRA vs CRU",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,NICOLINI,SESI FRANCA,"2026-11-05, FRA vs CRU",2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,ARTHUR,SESI FRANCA,"2026-11-05, FRA vs CRU",3,0,0,0,0,1,0,0,1,1,2,0,0,0,1,0
+nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,ALE,SESI FRANCA,"2026-11-05, FRA vs CRU",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,ADYEL,ITATIAIUCU CRUZEIRO,"2026-11-05, FRA vs CRU",29,13,4,11,0,4,5,7,5,0,5,3,3,0,5,3
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,NIQUE COLEMAN,ITATIAIUCU CRUZEIRO,"2026-11-05, FRA vs CRU",26,12,4,7,0,3,4,6,2,0,2,0,0,0,0,1
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,QUEIROS,ITATIAIUCU CRUZEIRO,"2026-11-05, FRA vs CRU",27,11,5,6,0,4,1,1,8,2,10,0,2,1,1,2
@@ -820,16 +822,16 @@ nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,ICARO,ITAT
 nbb-caixa-2026-27-sesi-franca-98-x-77-itatiaiucu-cruzeiro,2026-27,NBB,PAULINO,ITATIAIUCU CRUZEIRO,"2026-11-05, FRA vs CRU",2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,LESSA,BASKET OSASCO,"2026-11-05, OSA vs SJO",36,25,9,11,0,2,7,7,2,3,5,5,0,0,2,2
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,JJ,BASKET OSASCO,"2026-11-05, OSA vs SJO",32,11,4,7,1,7,0,0,4,1,5,2,0,0,4,3
-nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-11-05, OSA vs SJO",29,10,1,1,2,5,2,2,10,0,10,7,1,0,4,3
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,VINICIUS,BASKET OSASCO,"2026-11-05, OSA vs SJO",24,10,1,4,2,5,2,4,2,0,2,7,2,0,2,4
+nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-11-05, OSA vs SJO",29,10,1,1,2,5,2,2,10,0,10,7,1,0,4,3
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,FIDELIS,BASKET OSASCO,"2026-11-05, OSA vs SJO",18,7,2,5,0,1,3,7,4,2,6,1,1,1,1,2
-nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,JON,BASKET OSASCO,"2026-11-05, OSA vs SJO",14,5,2,4,0,1,1,1,2,1,3,1,1,0,0,3
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,GABRIEL,BASKET OSASCO,"2026-11-05, OSA vs SJO",11,5,2,6,0,0,1,3,1,1,2,0,0,0,0,3
-nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,JULIO,BASKET OSASCO,"2026-11-05, OSA vs SJO",14,3,0,0,1,3,0,0,0,0,0,0,1,0,1,2
+nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,JON,BASKET OSASCO,"2026-11-05, OSA vs SJO",14,5,2,4,0,1,1,1,2,1,3,1,1,0,0,3
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,BARRY,BASKET OSASCO,"2026-11-05, OSA vs SJO",13,3,0,1,1,3,0,0,2,0,2,1,1,0,2,1
+nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,JULIO,BASKET OSASCO,"2026-11-05, OSA vs SJO",14,3,0,0,1,3,0,0,0,0,0,0,1,0,1,2
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,PASSOS,BASKET OSASCO,"2026-11-05, OSA vs SJO",9,2,1,2,0,0,0,0,2,3,5,0,0,0,0,1
-nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,THOMPSON,SAO JOSE,"2026-11-05, OSA vs SJO",27,18,2,3,4,6,2,4,1,0,1,3,2,0,3,1
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,PAYTON,SAO JOSE,"2026-11-05, OSA vs SJO",30,18,5,8,2,5,2,2,0,1,1,3,1,0,1,3
+nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,THOMPSON,SAO JOSE,"2026-11-05, OSA vs SJO",27,18,2,3,4,6,2,4,1,0,1,3,2,0,3,1
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,DERICK,SAO JOSE,"2026-11-05, OSA vs SJO",30,17,4,9,0,3,9,10,10,1,11,2,5,0,2,5
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,CRAVERO,SAO JOSE,"2026-11-05, OSA vs SJO",22,13,3,6,1,2,4,7,5,2,7,2,0,1,0,2
 nbb-caixa-2026-27-basket-osasco-81-x-90-sao-jose,2026-27,NBB,MURILO,SAO JOSE,"2026-11-05, OSA vs SJO",28,13,4,6,1,5,2,2,8,2,10,1,0,2,2,2
@@ -844,8 +846,8 @@ nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,WEAVER,UNIFACISA,"20
 nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,ANTONIO,UNIFACISA,"2026-11-06, UFC vs COR",31,13,1,3,3,8,2,2,1,1,2,2,2,0,0,1
 nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,FIGUEREDO,UNIFACISA,"2026-11-06, UFC vs COR",28,8,1,3,2,7,0,0,3,0,3,4,1,0,1,0
 nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,PARANHOS,UNIFACISA,"2026-11-06, UFC vs COR",24,8,4,10,0,0,0,0,4,3,7,1,2,0,1,1
-nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,M. BONFIM,UNIFACISA,"2026-11-06, UFC vs COR",14,5,1,1,0,0,3,4,1,0,1,0,0,0,3,2
 nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,JOAO PAULO,UNIFACISA,"2026-11-06, UFC vs COR",10,5,1,3,1,2,0,0,3,0,3,0,1,0,0,0
+nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,M. BONFIM,UNIFACISA,"2026-11-06, UFC vs COR",14,5,1,1,0,0,3,4,1,0,1,0,0,0,3,2
 nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,MATHEUSINHO,UNIFACISA,"2026-11-06, UFC vs COR",17,4,2,3,0,2,0,0,1,0,1,3,0,0,1,1
 nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,FLORES,UNIFACISA,"2026-11-06, UFC vs COR",2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
 nbb-caixa-2026-27-unifacisa-84-x-79-corinthians,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-11-06, UFC vs COR",31,20,2,3,4,10,4,4,1,2,3,7,0,0,1,2
@@ -867,11 +869,11 @@ nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,AUGUSTO,BASQU
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-11-07, BCE vs CAP",11,0,0,0,0,0,0,0,1,1,2,1,0,0,1,1
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,NICKEL,PAULISTANO,"2026-11-07, BCE vs CAP",25,16,2,6,4,6,0,0,0,0,0,2,0,0,3,3
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,MAIQUE,PAULISTANO,"2026-11-07, BCE vs CAP",18,7,1,1,1,2,2,2,4,2,6,0,0,0,0,4
-nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,SEIXAS,PAULISTANO,"2026-11-07, BCE vs CAP",30,6,1,5,1,11,1,1,0,1,1,1,2,0,2,2
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,ANDERSON,PAULISTANO,"2026-11-07, BCE vs CAP",34,6,3,7,0,4,0,0,3,1,4,4,0,0,2,2
+nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,SEIXAS,PAULISTANO,"2026-11-07, BCE vs CAP",30,6,1,5,1,11,1,1,0,1,1,1,2,0,2,2
+nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,TOVAR,PAULISTANO,"2026-11-07, BCE vs CAP",14,5,1,3,1,3,0,0,4,0,4,1,0,0,4,2
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,RICH,PAULISTANO,"2026-11-07, BCE vs CAP",22,5,2,2,0,2,1,2,3,1,4,2,2,0,0,0
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,GABRIEL,PAULISTANO,"2026-11-07, BCE vs CAP",12,5,1,1,1,4,0,0,2,0,2,0,0,0,0,1
-nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,TOVAR,PAULISTANO,"2026-11-07, BCE vs CAP",14,5,1,3,1,3,0,0,4,0,4,1,0,0,4,2
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,LEANDRO,PAULISTANO,"2026-11-07, BCE vs CAP",19,4,2,2,0,2,0,0,4,3,7,1,0,0,3,2
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,MACEDO,PAULISTANO,"2026-11-07, BCE vs CAP",14,2,1,3,0,0,0,0,3,2,5,1,0,0,0,1
 nbb-caixa-2026-27-basquete-cearense-65-x-58-paulistano,2026-27,NBB,DIEGO ZAGO,PAULISTANO,"2026-11-07, BCE vs CAP",12,2,1,1,0,2,0,2,2,0,2,0,0,1,0,2
@@ -882,8 +884,8 @@ nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,BRAYAN,PINHEIROS,"2026
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,GRIGOR,PINHEIROS,"2026-11-07, PIN vs SJO",25,10,1,2,2,5,2,2,2,1,3,2,4,0,2,4
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-11-07, PIN vs SJO",25,10,2,4,2,7,0,0,2,2,4,3,1,1,2,3
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,BORACINA,PINHEIROS,"2026-11-07, PIN vs SJO",20,6,0,3,2,6,0,0,0,0,0,3,2,0,2,2
-nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,DIEGER,PINHEIROS,"2026-11-07, PIN vs SJO",5,4,1,1,0,0,2,2,1,2,3,0,0,0,0,0
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,THOR,PINHEIROS,"2026-11-07, PIN vs SJO",7,4,2,3,0,0,0,0,0,1,1,2,2,0,2,1
+nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,DIEGER,PINHEIROS,"2026-11-07, PIN vs SJO",5,4,1,1,0,0,2,2,1,2,3,0,0,0,0,0
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,DANILLO,PINHEIROS,"2026-11-07, PIN vs SJO",2,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,GOERINO,PINHEIROS,"2026-11-07, PIN vs SJO",9,2,1,3,0,0,0,0,0,2,2,0,0,0,0,5
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,VEZARO,PINHEIROS,"2026-11-07, PIN vs SJO",16,1,0,0,0,1,1,2,1,0,1,0,0,0,0,3
@@ -896,9 +898,9 @@ nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,SCHEUER,SAO JOSE,"2026
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,PAYTON,SAO JOSE,"2026-11-07, PIN vs SJO",21,7,2,8,1,2,0,0,3,1,4,1,0,0,4,2
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,JACKSON JR.,SAO JOSE,"2026-11-07, PIN vs SJO",12,5,1,1,0,1,3,3,1,0,1,0,1,1,1,2
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,GUIMARAES,SAO JOSE,"2026-11-07, PIN vs SJO",15,2,0,2,0,1,2,2,0,1,1,6,1,0,1,1
+nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,SOTO,SAO JOSE,"2026-11-07, PIN vs SJO",2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,JOJO,SAO JOSE,"2026-11-07, PIN vs SJO",11,0,0,2,0,0,0,0,1,2,3,2,1,0,3,1
 nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,G. PESSOA,SAO JOSE,"2026-11-07, PIN vs SJO",12,0,0,0,0,3,0,0,0,2,2,0,0,0,2,1
-nbb-caixa-2026-27-pinheiros-103-x-87-sao-jose,2026-27,NBB,SOTO,SAO JOSE,"2026-11-07, PIN vs SJO",2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 nbb-caixa-2026-27-caxias-do-sul-55-x-76-caixa-brasilia,2026-27,NBB,NK,CAXIAS DO SUL,"2026-11-07, CAX vs BRA",26,16,6,12,0,0,4,7,6,4,10,1,1,0,3,4
 nbb-caixa-2026-27-caxias-do-sul-55-x-76-caixa-brasilia,2026-27,NBB,NAKA,CAXIAS DO SUL,"2026-11-07, CAX vs BRA",35,11,3,11,1,5,2,2,4,1,5,5,1,0,2,4
 nbb-caixa-2026-27-caxias-do-sul-55-x-76-caixa-brasilia,2026-27,NBB,PEDRO,CAXIAS DO SUL,"2026-11-07, CAX vs BRA",29,8,0,2,1,4,5,6,1,1,2,4,1,1,1,1
@@ -925,18 +927,18 @@ nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,G. RIBEIRO,PATO BAS
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,BELLER,PATO BASQUETE,"2026-11-07, PAT vs FLA",22,6,0,2,2,4,0,0,2,2,4,1,1,0,2,2
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,M. DOUGLAS,PATO BASQUETE,"2026-11-07, PAT vs FLA",28,5,1,3,1,2,0,0,2,2,4,3,0,2,1,3
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,M. JAMELAO,PATO BASQUETE,"2026-11-07, PAT vs FLA",13,3,0,2,1,6,0,0,3,1,4,2,1,0,0,2
-nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,FELIPE,PATO BASQUETE,"2026-11-07, PAT vs FLA",11,0,0,1,0,1,0,0,2,1,3,1,0,0,0,0
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,LUCIO,PATO BASQUETE,"2026-11-07, PAT vs FLA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,BRANDAO,PATO BASQUETE,"2026-11-07, PAT vs FLA",2,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,FELIPE,PATO BASQUETE,"2026-11-07, PAT vs FLA",11,0,0,1,0,1,0,0,2,1,3,1,0,0,0,0
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,YAGO,FLAMENGO,"2026-11-07, PAT vs FLA",26,24,2,2,5,11,5,5,0,0,0,4,1,0,1,2
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,DOS SANTOS,FLAMENGO,"2026-11-07, PAT vs FLA",17,16,2,2,2,2,6,6,3,1,4,1,0,1,1,3
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,MONTERO,FLAMENGO,"2026-11-07, PAT vs FLA",24,11,2,3,2,2,1,2,5,0,5,3,2,1,2,0
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,NEGRETE,FLAMENGO,"2026-11-07, PAT vs FLA",27,9,3,3,1,5,0,0,7,0,7,4,0,2,4,1
-nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,BARALLE,FLAMENGO,"2026-11-07, PAT vs FLA",24,6,0,0,2,9,0,0,0,0,0,3,0,1,3,3
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,RUAN,FLAMENGO,"2026-11-07, PAT vs FLA",12,6,3,5,0,0,0,0,5,1,6,0,0,0,2,0
+nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,BARALLE,FLAMENGO,"2026-11-07, PAT vs FLA",24,6,0,0,2,9,0,0,0,0,0,3,0,1,3,3
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,FREEMAN,FLAMENGO,"2026-11-07, PAT vs FLA",19,4,2,4,0,0,0,0,1,2,3,2,1,2,1,1
-nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,DJALO,FLAMENGO,"2026-11-07, PAT vs FLA",19,2,0,1,0,3,2,2,2,0,2,0,0,0,2,1
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,IGOR,FLAMENGO,"2026-11-07, PAT vs FLA",11,2,1,2,0,1,0,0,1,0,1,1,0,0,1,1
+nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,DJALO,FLAMENGO,"2026-11-07, PAT vs FLA",19,2,0,1,0,3,2,2,2,0,2,0,0,0,2,1
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,ONWENU,FLAMENGO,"2026-11-07, PAT vs FLA",8,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1
 nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo,2026-27,NBB,MANEL,FLAMENGO,"2026-11-07, PAT vs FLA",8,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,GILLARD,PATO BASQUETE,"2026-11-09, PAT vs BAU",30,27,4,5,5,10,4,5,5,1,6,3,1,0,0,2
@@ -946,26 +948,26 @@ nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,FELIPE,PATO BAS
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,BELLER,PATO BASQUETE,"2026-11-09, PAT vs BAU",20,7,2,4,1,1,0,0,2,4,6,1,2,0,0,3
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,ANJOS,PATO BASQUETE,"2026-11-09, PAT vs BAU",30,6,0,0,2,8,0,0,3,3,6,2,0,0,2,4
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,THAYLOR,PATO BASQUETE,"2026-11-09, PAT vs BAU",9,3,1,2,0,4,1,1,1,1,2,3,0,0,3,2
+nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,M. JAMELAO,PATO BASQUETE,"2026-11-09, PAT vs BAU",14,2,1,2,0,5,0,0,0,0,0,2,0,0,2,1
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,G. RIBEIRO,PATO BASQUETE,"2026-11-09, PAT vs BAU",11,2,1,1,0,2,0,0,3,2,5,0,0,0,1,1
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,ALE,PATO BASQUETE,"2026-11-09, PAT vs BAU",13,2,0,2,0,1,2,2,0,0,0,5,1,0,1,1
-nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,M. JAMELAO,PATO BASQUETE,"2026-11-09, PAT vs BAU",14,2,1,2,0,5,0,0,0,0,0,2,0,0,2,1
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,HARRIS,BAURU BASKET,"2026-11-09, PAT vs BAU",30,35,9,12,3,6,8,8,1,1,2,4,3,0,5,3
-nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,VIETA,BAURU BASKET,"2026-11-09, PAT vs BAU",25,17,2,3,4,8,1,2,4,0,4,0,0,0,2,4
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,ALEX,BAURU BASKET,"2026-11-09, PAT vs BAU",34,17,3,9,3,8,2,2,3,0,3,10,2,0,2,0
+nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,VIETA,BAURU BASKET,"2026-11-09, PAT vs BAU",25,17,2,3,4,8,1,2,4,0,4,0,0,0,2,4
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,VITOR,BAURU BASKET,"2026-11-09, PAT vs BAU",20,11,4,6,0,0,3,6,3,3,6,0,0,0,0,2
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,RODRIGUES,BAURU BASKET,"2026-11-09, PAT vs BAU",16,8,2,3,0,0,4,4,0,2,2,0,1,0,0,1
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,BENNETT,BAURU BASKET,"2026-11-09, PAT vs BAU",38,7,3,3,0,0,1,1,6,0,6,6,2,0,2,0
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,MOGI,BAURU BASKET,"2026-11-09, PAT vs BAU",19,3,0,1,1,3,0,0,6,0,6,1,1,1,0,1
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,GUSTAVO,BAURU BASKET,"2026-11-09, PAT vs BAU",15,0,0,1,0,1,0,0,0,1,1,0,1,0,0,2
 nbb-caixa-2026-27-pato-basquete-78-x-98-bauru-basket,2026-27,NBB,CAIO,BAURU BASKET,"2026-11-09, PAT vs BAU",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,EUGENIUSZ,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",29,16,3,3,2,7,4,5,4,3,7,1,1,1,3,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,GABRIEL,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",33,16,5,5,2,8,0,2,2,1,3,7,2,0,4,1
+nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,EUGENIUSZ,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",29,16,3,3,2,7,4,5,4,3,7,1,1,1,3,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,CARDENAS,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",26,11,4,4,0,1,3,3,7,3,10,1,1,0,2,1
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,MUNFORD,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",31,8,0,3,2,9,2,2,5,0,5,0,1,2,2,3
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,ENZO,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",14,5,1,1,1,4,0,0,0,1,1,1,2,0,0,1
+nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,VERISSIMO,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",19,4,1,4,0,1,2,2,7,1,8,1,2,0,2,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,RENATO,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",26,4,2,7,0,3,0,0,4,1,5,2,3,0,0,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,JONATAN,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",18,4,1,2,0,2,2,2,0,0,0,0,1,0,1,2
-nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,VERISSIMO,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",19,4,1,4,0,1,2,2,7,1,8,1,2,0,2,2
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,CAIO,CEISC/UNIAO CORINTHIANS,"2026-11-09, UCO vs BRA",4,2,1,1,0,0,0,0,0,0,0,1,0,0,0,1
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,CYLLA,CAIXA/BRASILIA,"2026-11-09, UCO vs BRA",31,14,3,9,1,5,5,5,2,3,5,1,0,0,1,4
 nbb-caixa-2026-27-ceisc-uniao-corinthians-70-x-61-caixa-brasilia,2026-27,NBB,CRESCENZI,CAIXA/BRASILIA,"2026-11-09, UCO vs BRA",38,12,2,5,2,3,2,4,5,2,7,5,2,0,5,3
@@ -996,8 +998,8 @@ nbb-caixa-2026-27-basquete-cearense-68-x-75-corinthians,2026-27,NBB,CARDOSO,CORI
 nbb-caixa-2026-27-basquete-cearense-68-x-75-corinthians,2026-27,NBB,ELINHO,CORINTHIANS,"2026-11-09, BCE vs COR",31,3,0,0,1,3,0,0,2,2,4,12,2,0,3,0
 nbb-caixa-2026-27-basquete-cearense-68-x-75-corinthians,2026-27,NBB,PEREIRA,CORINTHIANS,"2026-11-09, BCE vs COR",4,0,0,1,0,0,0,0,1,0,1,0,0,0,1,2
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,BRIDGEWATER,PINHEIROS,"2026-11-09, PIN vs MOG",31,14,2,4,0,6,10,11,2,0,2,6,0,0,2,3
-nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-11-09, PIN vs MOG",26,13,2,3,3,6,0,0,1,0,1,1,2,0,3,2
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,GREGATE,PINHEIROS,"2026-11-09, PIN vs MOG",28,13,4,7,1,4,2,2,4,1,5,3,3,0,1,4
+nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-11-09, PIN vs MOG",26,13,2,3,3,6,0,0,1,0,1,1,2,0,3,2
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,BRAYAN,PINHEIROS,"2026-11-09, PIN vs MOG",32,11,2,2,2,5,1,2,7,0,7,1,0,0,3,5
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,NESBITT,PINHEIROS,"2026-11-09, PIN vs MOG",29,7,2,7,1,3,0,0,7,2,9,0,0,0,1,3
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,VEZARO,PINHEIROS,"2026-11-09, PIN vs MOG",17,7,2,2,1,2,0,0,1,1,2,1,0,0,2,2
@@ -1008,9 +1010,9 @@ nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,GEORGINHO,MOGI BAS
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,BRITE,MOGI BASQUETE,"2026-11-09, PIN vs MOG",28,19,6,7,1,4,4,6,4,1,5,0,5,0,1,3
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,PAULO,MOGI BASQUETE,"2026-11-09, PIN vs MOG",28,11,4,4,1,5,0,0,5,0,5,0,1,1,0,2
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,VON HAYDIN,MOGI BASQUETE,"2026-11-09, PIN vs MOG",32,9,1,4,2,6,1,3,4,1,5,1,2,0,1,1
+nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,LUCAS DIAS,MOGI BASQUETE,"2026-11-09, PIN vs MOG",24,6,0,0,1,6,3,3,6,0,6,2,0,0,4,2
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,FUZARO,MOGI BASQUETE,"2026-11-09, PIN vs MOG",17,6,1,1,0,1,4,6,1,2,3,2,1,1,1,3
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,RUIVO,MOGI BASQUETE,"2026-11-09, PIN vs MOG",16,6,0,0,2,4,0,0,2,0,2,2,0,0,1,1
-nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,LUCAS DIAS,MOGI BASQUETE,"2026-11-09, PIN vs MOG",24,6,0,0,1,6,3,3,6,0,6,2,0,0,4,2
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,DIKEMBE,MOGI BASQUETE,"2026-11-09, PIN vs MOG",12,4,2,7,0,0,0,0,2,2,4,1,0,0,2,2
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,L. CAUE,MOGI BASQUETE,"2026-11-09, PIN vs MOG",3,2,1,1,0,0,0,0,1,1,2,0,0,0,0,0
 nbb-caixa-2026-27-pinheiros-70-x-85-mogi-basquete,2026-27,NBB,PAULICHI,MOGI BASQUETE,"2026-11-09, PIN vs MOG",6,1,0,2,0,0,1,2,1,0,1,1,0,0,1,1
@@ -1035,8 +1037,8 @@ nbb-caixa-2026-27-flamengo-73-x-84-sesi-franca,2026-27,NBB,SOLANO,SESI FRANCA,"2
 nbb-caixa-2026-27-flamengo-73-x-84-sesi-franca,2026-27,NBB,MINEIRO,SESI FRANCA,"2026-11-10, FLA vs FRA",18,4,0,0,1,4,1,2,3,0,3,1,1,0,2,2
 nbb-caixa-2026-27-flamengo-73-x-84-sesi-franca,2026-27,NBB,VITINHO,SESI FRANCA,"2026-11-10, FLA vs FRA",19,3,1,3,0,1,1,2,1,0,1,1,0,0,0,3
 nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,ABREU,MINAS STORM,"2026-11-11, MIN vs UFC",21,15,3,5,3,5,0,0,4,2,6,3,0,0,1,4
-nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,HOLLOWELL,MINAS STORM,"2026-11-11, MIN vs UFC",17,13,3,3,2,4,1,1,2,0,2,0,1,0,0,2
 nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,R. RACHEL,MINAS STORM,"2026-11-11, MIN vs UFC",22,13,2,3,2,5,3,4,1,0,1,2,2,1,1,5
+nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,HOLLOWELL,MINAS STORM,"2026-11-11, MIN vs UFC",17,13,3,3,2,4,1,1,2,0,2,0,1,0,0,2
 nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,CLARK,MINAS STORM,"2026-11-11, MIN vs UFC",25,12,3,4,2,5,0,0,2,0,2,4,2,0,1,0
 nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,WESLEY,MINAS STORM,"2026-11-11, MIN vs UFC",20,9,3,4,0,3,3,4,4,2,6,2,1,0,4,1
 nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,SANTOS,MINAS STORM,"2026-11-11, MIN vs UFC",23,8,3,5,0,1,2,2,6,0,6,2,0,3,2,0
@@ -1055,3 +1057,504 @@ nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,M. BONFIM,UNIFACISA,
 nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,FIGUEREDO,UNIFACISA,"2026-11-11, MIN vs UFC",20,2,1,2,0,2,0,0,4,0,4,7,0,0,5,2
 nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,JOAO PAULO,UNIFACISA,"2026-11-11, MIN vs UFC",15,0,0,1,0,1,0,0,2,0,2,1,0,1,2,1
 nbb-caixa-2026-27-minas-storm-88-x-57-unifacisa,2026-27,NBB,JIMMY,UNIFACISA,"2026-11-11, MIN vs UFC",20,0,0,3,0,2,0,0,3,1,4,0,0,0,1,1
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,RAFA,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",26,13,2,3,1,2,6,8,4,1,5,0,1,0,1,4
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,NK,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",24,12,5,10,0,0,2,6,3,2,5,2,0,0,1,3
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,ISAAC R.,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",28,12,1,4,3,7,1,3,4,1,5,1,1,0,0,4
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,OMENA,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",33,9,2,3,1,5,2,2,1,0,1,5,2,0,3,2
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,NAKA,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",28,9,1,3,2,7,1,2,3,5,8,4,1,1,3,2
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,MIGUEL,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",18,9,0,2,2,4,3,4,2,3,5,0,0,0,2,3
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,BOLIVAR,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",18,7,2,3,1,5,0,0,3,0,3,4,0,0,1,1
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,PEDRO,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",24,6,3,5,0,2,0,2,0,1,1,3,1,0,1,3
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,JHONATAN,CAXIAS DO SUL,"2026-11-12, CAX vs PAT",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,ANJOS,PATO BASQUETE,"2026-11-12, CAX vs PAT",29,14,2,3,2,3,4,5,2,2,4,0,1,0,0,5
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,ALE,PATO BASQUETE,"2026-11-12, CAX vs PAT",27,14,4,5,0,3,6,9,2,0,2,9,6,0,3,2
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,FELIPE,PATO BASQUETE,"2026-11-12, CAX vs PAT",14,13,5,5,0,0,3,5,3,1,4,0,0,1,0,1
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,KAMGAIN,PATO BASQUETE,"2026-11-12, CAX vs PAT",26,13,5,8,0,3,3,4,3,0,3,3,1,0,1,4
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,M. JAMELAO,PATO BASQUETE,"2026-11-12, CAX vs PAT",17,9,0,3,3,6,0,0,2,1,3,4,0,0,3,1
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,M. DOUGLAS,PATO BASQUETE,"2026-11-12, CAX vs PAT",26,8,3,4,0,0,2,2,5,0,5,2,0,2,1,5
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,GILLARD,PATO BASQUETE,"2026-11-12, CAX vs PAT",32,4,1,3,0,6,2,3,3,1,4,2,1,0,3,1
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,BELLER,PATO BASQUETE,"2026-11-12, CAX vs PAT",20,4,2,5,0,2,0,0,3,3,6,0,1,0,0,5
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,G. RIBEIRO,PATO BASQUETE,"2026-11-12, CAX vs PAT",5,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+nbb-caixa-2026-27-caxias-do-sul-basquete-77-x-79-pato-basquete,2026-27,NBB,THAYLOR,PATO BASQUETE,"2026-11-12, CAX vs PAT",4,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,LUCAS,BOTAFOGO,"2026-11-12, BOT vs FRA",25,14,1,5,4,6,0,0,0,2,2,1,0,0,1,3
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,FISCHER,BOTAFOGO,"2026-11-12, BOT vs FRA",31,12,4,7,0,1,4,5,3,0,3,3,0,0,5,3
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,VINI CHAGAS,BOTAFOGO,"2026-11-12, BOT vs FRA",25,10,5,10,0,0,0,0,5,4,9,2,0,1,2,2
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,JP DEMETRIO,BOTAFOGO,"2026-11-12, BOT vs FRA",19,8,4,10,0,0,0,0,3,1,4,0,0,2,0,0
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,HUMBERTO,BOTAFOGO,"2026-11-12, BOT vs FRA",31,8,2,4,1,1,1,3,4,1,5,4,1,0,3,1
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,VITHINHO,BOTAFOGO,"2026-11-12, BOT vs FRA",20,3,0,2,1,2,0,0,2,0,2,3,0,0,1,2
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,MUDRONJA,BOTAFOGO,"2026-11-12, BOT vs FRA",17,3,0,3,1,3,0,0,1,2,3,1,3,0,5,1
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,THORNTON,BOTAFOGO,"2026-11-12, BOT vs FRA",31,2,1,4,0,1,0,1,1,0,1,1,0,0,1,3
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,JOAO DAVI,BOTAFOGO,"2026-11-12, BOT vs FRA",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,REYNAN,SESI FRANCA,"2026-11-12, BOT vs FRA",18,15,5,10,1,2,2,2,3,2,5,0,1,1,1,3
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,MINEIRO,SESI FRANCA,"2026-11-12, BOT vs FRA",24,15,3,4,3,6,0,1,4,3,7,2,1,0,0,1
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,DAVID JACKSON,SESI FRANCA,"2026-11-12, BOT vs FRA",25,14,3,5,1,1,5,5,6,3,9,1,0,1,3,1
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,VITINHO,SESI FRANCA,"2026-11-12, BOT vs FRA",26,11,2,4,1,7,4,4,0,1,1,5,2,0,0,0
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,ANDREZAO,SESI FRANCA,"2026-11-12, BOT vs FRA",24,10,5,10,0,0,0,0,4,6,10,1,2,0,2,1
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,VINI SANTOS,SESI FRANCA,"2026-11-12, BOT vs FRA",18,6,1,2,1,3,1,2,1,2,3,1,1,1,0,3
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,GUI,SESI FRANCA,"2026-11-12, BOT vs FRA",27,5,1,2,1,4,0,1,1,0,1,3,1,1,1,0
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,PARODI,SESI FRANCA,"2026-11-12, BOT vs FRA",18,5,1,4,1,3,0,0,1,0,1,2,1,0,1,1
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,SOLANO,SESI FRANCA,"2026-11-12, BOT vs FRA",15,2,0,1,0,2,2,2,5,0,5,0,0,0,2,1
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,NICOLINI,SESI FRANCA,"2026-11-12, BOT vs FRA",1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+nbb-caixa-2026-27-botafogo-60-x-83-sesi-franca,2026-27,NBB,ARTHUR,SESI FRANCA,"2026-11-12, BOT vs FRA",3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,VICTAO,CORINTHIANS,"2026-11-12, COR vs PIN",38,18,2,4,4,8,2,2,2,2,4,0,1,1,1,1
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,ELINHO,CORINTHIANS,"2026-11-12, COR vs PIN",37,17,1,2,3,5,6,6,3,0,3,2,2,0,1,1
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,BETINHO,CORINTHIANS,"2026-11-12, COR vs PIN",22,14,4,9,1,4,3,4,3,2,5,1,0,0,3,4
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-11-12, COR vs PIN",28,9,1,5,1,5,4,4,2,0,2,4,1,0,1,3
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,TICO FARIA,CORINTHIANS,"2026-11-12, COR vs PIN",15,9,2,4,1,1,2,2,0,0,0,1,1,0,3,1
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,NOVAES,CORINTHIANS,"2026-11-12, COR vs PIN",13,7,1,3,1,2,2,3,4,1,5,2,0,1,1,2
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,CARDOSO,CORINTHIANS,"2026-11-12, COR vs PIN",25,3,1,3,0,1,1,4,5,4,9,2,2,1,2,4
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,CAUE,CORINTHIANS,"2026-11-12, COR vs PIN",21,2,0,1,0,1,2,2,0,0,0,1,1,0,1,2
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,BRIDGEWATER,PINHEIROS,"2026-11-12, COR vs PIN",32,21,4,13,1,2,10,10,1,1,2,9,2,0,2,2
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,GRIGOR,PINHEIROS,"2026-11-12, COR vs PIN",24,21,4,6,3,4,4,5,2,3,5,0,1,2,4,5
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,BRAYAN,PINHEIROS,"2026-11-12, COR vs PIN",27,14,7,8,0,2,0,0,4,2,6,0,0,0,1,1
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,GREGATE,PINHEIROS,"2026-11-12, COR vs PIN",32,12,6,9,0,4,0,0,6,2,8,5,1,0,4,2
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,NESBITT,PINHEIROS,"2026-11-12, COR vs PIN",27,12,3,5,2,2,0,0,2,2,4,2,0,1,0,3
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,VEZARO,PINHEIROS,"2026-11-12, COR vs PIN",23,6,1,1,1,3,1,1,1,1,2,0,1,0,1,2
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,BORACINA,PINHEIROS,"2026-11-12, COR vs PIN",12,3,1,3,0,0,1,2,1,1,2,1,0,0,1,2
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-11-12, COR vs PIN",23,2,1,2,0,1,0,0,8,2,10,8,2,0,2,4
+nbb-caixa-2026-27-corinthians-79-x-91-pinheiros,2026-27,NBB,GOERINO,PINHEIROS,"2026-11-12, COR vs PIN",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-11-12, OSA vs MOG",32,13,3,3,2,6,1,1,10,3,13,6,1,0,4,1
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,LESSA,BASKET OSASCO,"2026-11-12, OSA vs MOG",33,12,2,6,1,3,5,6,2,0,2,7,1,0,3,1
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,JON,BASKET OSASCO,"2026-11-12, OSA vs MOG",26,11,4,6,0,6,3,4,6,1,7,1,0,0,0,5
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,FIDELIS,BASKET OSASCO,"2026-11-12, OSA vs MOG",14,11,4,7,1,1,0,3,0,1,1,0,1,0,1,3
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,BARRY,BASKET OSASCO,"2026-11-12, OSA vs MOG",25,9,2,3,1,2,2,5,1,1,2,0,0,2,1,5
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,VINICIUS,BASKET OSASCO,"2026-11-12, OSA vs MOG",25,7,0,2,2,3,1,2,3,0,3,2,0,0,3,3
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,PASSOS,BASKET OSASCO,"2026-11-12, OSA vs MOG",10,4,2,2,0,0,0,0,2,1,3,0,0,0,0,1
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,JJ,BASKET OSASCO,"2026-11-12, OSA vs MOG",25,4,2,5,0,6,0,0,1,0,1,2,2,0,2,0
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,GABRIEL,BASKET OSASCO,"2026-11-12, OSA vs MOG",5,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,JULIO,BASKET OSASCO,"2026-11-12, OSA vs MOG",6,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,GEORGINHO,MOGI BASQUETE,"2026-11-12, OSA vs MOG",27,20,4,4,3,4,3,4,5,1,6,5,2,0,2,1
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,PAULO,MOGI BASQUETE,"2026-11-12, OSA vs MOG",24,14,4,6,2,2,0,0,5,1,6,0,2,0,3,1
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,VON HAYDIN,MOGI BASQUETE,"2026-11-12, OSA vs MOG",27,14,3,4,2,4,2,4,3,0,3,3,2,0,0,0
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,BRITE,MOGI BASQUETE,"2026-11-12, OSA vs MOG",22,12,4,5,1,3,1,1,1,0,1,2,2,0,1,2
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,PAULICHI,MOGI BASQUETE,"2026-11-12, OSA vs MOG",17,9,3,6,1,1,0,0,3,1,4,2,0,1,2,2
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,RUIVO,MOGI BASQUETE,"2026-11-12, OSA vs MOG",22,8,1,1,2,4,0,0,1,0,1,2,1,0,1,0
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,LUCAS DIAS,MOGI BASQUETE,"2026-11-12, OSA vs MOG",21,5,1,4,1,5,0,1,4,0,4,1,1,1,2,2
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,DIKEMBE,MOGI BASQUETE,"2026-11-12, OSA vs MOG",12,4,2,6,0,0,0,0,3,2,5,3,0,0,2,2
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,BAVOSO,MOGI BASQUETE,"2026-11-12, OSA vs MOG",2,3,0,0,1,1,0,2,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,FUZARO,MOGI BASQUETE,"2026-11-12, OSA vs MOG",18,2,1,1,0,2,0,0,4,0,4,4,1,0,0,2
+nbb-caixa-2026-27-basket-osasco-75-x-93-mogi-basquete,2026-27,NBB,VITORIANO,MOGI BASQUETE,"2026-11-12, OSA vs MOG",9,2,0,2,0,0,2,4,0,0,0,0,0,0,0,3
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,SCHEUER,SAO JOSE,"2026-11-13, SJO vs CAP",29,27,9,14,0,0,9,12,7,3,10,2,2,1,2,3
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,MURILO,SAO JOSE,"2026-11-13, SJO vs CAP",24,14,4,7,1,6,3,4,7,2,9,1,0,2,1,2
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,DERICK,SAO JOSE,"2026-11-13, SJO vs CAP",27,12,4,5,1,5,1,4,6,1,7,2,0,0,2,3
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,THOMPSON,SAO JOSE,"2026-11-13, SJO vs CAP",22,10,2,4,2,3,0,0,2,0,2,4,0,0,1,2
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,DUARTE,SAO JOSE,"2026-11-13, SJO vs CAP",10,8,1,2,1,1,3,4,1,2,3,0,0,1,2,2
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,PAYTON,SAO JOSE,"2026-11-13, SJO vs CAP",30,3,1,5,0,1,1,2,4,1,5,5,0,0,1,1
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,G. PESSOA,SAO JOSE,"2026-11-13, SJO vs CAP",10,3,0,0,1,1,0,0,3,0,3,0,0,0,0,1
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,GUIMARAES,SAO JOSE,"2026-11-13, SJO vs CAP",33,2,1,5,0,1,0,0,3,0,3,12,2,1,2,3
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,JOJO,SAO JOSE,"2026-11-13, SJO vs CAP",4,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,JACKSON JR.,SAO JOSE,"2026-11-13, SJO vs CAP",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,CRAVERO,SAO JOSE,"2026-11-13, SJO vs CAP",7,0,0,1,0,0,0,0,2,1,3,1,0,1,0,0
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,SEIXAS,PAULISTANO,"2026-11-13, SJO vs CAP",34,15,1,5,3,9,4,4,2,4,6,1,0,0,0,2
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,NICKEL,PAULISTANO,"2026-11-13, SJO vs CAP",29,15,1,5,3,7,4,6,1,4,5,6,2,0,3,1
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,RICH,PAULISTANO,"2026-11-13, SJO vs CAP",23,13,1,3,3,7,2,2,7,2,9,0,0,0,2,2
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,LEANDRO,PAULISTANO,"2026-11-13, SJO vs CAP",20,12,2,2,2,6,2,2,2,2,4,1,1,0,0,4
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,MACEDO,PAULISTANO,"2026-11-13, SJO vs CAP",20,5,1,4,1,3,0,2,5,2,7,0,0,1,0,2
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,ANDERSON,PAULISTANO,"2026-11-13, SJO vs CAP",32,3,0,5,1,7,0,0,3,1,4,2,1,0,1,1
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,TOVAR,PAULISTANO,"2026-11-13, SJO vs CAP",12,2,1,3,0,1,0,0,3,0,3,0,0,0,3,4
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,DIEGO ZAGO,PAULISTANO,"2026-11-13, SJO vs CAP",7,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,MAIQUE,PAULISTANO,"2026-11-13, SJO vs CAP",14,0,0,1,0,5,0,2,3,1,4,0,0,0,1,4
+nbb-caixa-2026-27-sao-jose-79-x-65-paulistano,2026-27,NBB,AVANSO,PAULISTANO,"2026-11-13, SJO vs CAP",10,0,0,1,0,2,0,0,0,1,1,2,0,0,1,2
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-11-14, COR vs OSA",27,18,1,2,4,7,4,4,1,0,1,1,0,0,2,3
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,CARDOSO,CORINTHIANS,"2026-11-14, COR vs OSA",30,14,7,9,0,1,0,0,3,5,8,2,1,0,3,0
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,BETINHO,CORINTHIANS,"2026-11-14, COR vs OSA",22,13,2,5,2,5,3,5,3,0,3,0,1,0,1,1
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,CAUE,CORINTHIANS,"2026-11-14, COR vs OSA",23,13,3,5,1,2,4,5,2,1,3,2,0,0,1,3
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,VICTAO,CORINTHIANS,"2026-11-14, COR vs OSA",34,9,2,5,1,4,2,2,6,2,8,1,2,0,0,1
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,TICO FARIA,CORINTHIANS,"2026-11-14, COR vs OSA",11,5,2,3,0,1,1,1,1,2,3,0,0,0,0,0
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,ELINHO,CORINTHIANS,"2026-11-14, COR vs OSA",33,5,1,4,1,4,0,0,4,1,5,11,1,1,1,0
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,NOVAES,CORINTHIANS,"2026-11-14, COR vs OSA",13,5,1,2,0,0,3,4,0,3,3,1,1,0,3,5
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,LUIGGI,CORINTHIANS,"2026-11-14, COR vs OSA",3,2,0,0,0,0,2,2,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,PEREIRA,CORINTHIANS,"2026-11-14, COR vs OSA",3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,VINICIUS,BASKET OSASCO,"2026-11-14, COR vs OSA",27,17,4,5,2,6,3,3,0,0,0,2,3,0,1,1
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,JJ,BASKET OSASCO,"2026-11-14, COR vs OSA",26,14,2,6,3,5,1,2,1,0,1,0,0,0,2,3
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,PASSOS,BASKET OSASCO,"2026-11-14, COR vs OSA",21,10,4,4,0,0,2,2,2,4,6,0,1,0,3,2
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,JON,BASKET OSASCO,"2026-11-14, COR vs OSA",21,10,3,6,1,2,1,2,2,2,4,1,0,0,0,2
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,LESSA,BASKET OSASCO,"2026-11-14, COR vs OSA",37,8,3,8,0,2,2,2,0,0,0,4,0,0,0,3
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,FIDELIS,BASKET OSASCO,"2026-11-14, COR vs OSA",22,8,2,3,1,1,1,2,3,0,3,1,0,0,0,2
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-11-14, COR vs OSA",34,7,3,3,0,2,1,2,4,1,5,6,1,0,3,2
+nbb-caixa-2026-27-corinthians-84-x-74-basket-osasco,2026-27,NBB,BARRY,BASKET OSASCO,"2026-11-14, COR vs OSA",12,0,0,0,0,2,0,0,0,0,0,1,1,0,2,3
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,ENZO,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",15,12,0,1,4,8,0,0,1,0,1,1,0,0,0,0
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,CARDENAS,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",24,10,5,7,0,2,0,0,5,2,7,1,3,0,0,4
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,VERISSIMO,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",21,9,4,6,0,3,1,2,1,0,1,2,3,1,1,1
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,EUGENIUSZ,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",26,9,0,2,2,6,3,4,0,0,0,4,1,0,0,5
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,GABRIEL,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",33,8,0,2,2,7,2,2,0,3,3,3,0,1,4,2
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,JONATAN,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",21,7,2,4,1,3,0,0,1,0,1,2,1,0,0,3
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,RENATO,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",22,5,1,2,1,3,0,0,3,1,4,2,0,0,0,2
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,MUNFORD,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",20,5,1,3,1,5,0,0,2,2,4,3,2,0,2,4
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,CAIO,CEISC/UNIAO CORINTHIANS,"2026-11-14, UCO vs PAT",18,2,0,2,0,0,2,2,4,2,6,1,0,0,2,3
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,KAMGAIN,PATO BASQUETE,"2026-11-14, UCO vs PAT",31,21,6,10,2,6,3,9,1,2,3,4,1,0,6,3
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,GILLARD,PATO BASQUETE,"2026-11-14, UCO vs PAT",30,11,3,6,1,6,2,2,7,1,8,2,0,0,2,3
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,ALE,PATO BASQUETE,"2026-11-14, UCO vs PAT",30,10,2,8,1,2,3,5,2,0,2,4,2,0,2,3
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,BELLER,PATO BASQUETE,"2026-11-14, UCO vs PAT",27,9,0,0,3,6,0,0,1,1,2,1,0,0,2,1
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,FELIPE,PATO BASQUETE,"2026-11-14, UCO vs PAT",23,4,1,1,0,1,2,2,7,4,11,1,1,2,1,4
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,M. DOUGLAS,PATO BASQUETE,"2026-11-14, UCO vs PAT",29,4,2,4,0,0,0,2,5,6,11,1,0,1,3,1
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,ANJOS,PATO BASQUETE,"2026-11-14, UCO vs PAT",23,3,0,1,1,4,0,0,3,0,3,1,2,1,1,3
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,THAYLOR,PATO BASQUETE,"2026-11-14, UCO vs PAT",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,G. RIBEIRO,PATO BASQUETE,"2026-11-14, UCO vs PAT",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-ceisc-uniao-corinthians-67-x-62-pato-basquete,2026-27,NBB,M. JAMELAO,PATO BASQUETE,"2026-11-14, UCO vs PAT",4,0,0,0,0,2,0,0,0,0,0,1,0,0,2,0
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,NEPTUNE,MINAS STORM,"2026-11-14, MIN vs BCE",32,18,6,8,0,2,6,7,7,1,8,2,2,0,0,4
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,HOLLOWELL,MINAS STORM,"2026-11-14, MIN vs BCE",31,12,3,4,1,3,3,4,3,0,3,7,1,0,5,1
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,WESLEY,MINAS STORM,"2026-11-14, MIN vs BCE",18,11,3,4,0,0,5,5,5,1,6,0,0,0,0,3
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,ABREU,MINAS STORM,"2026-11-14, MIN vs BCE",27,11,3,7,1,5,2,4,6,1,7,2,1,0,2,1
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,SCALA,MINAS STORM,"2026-11-14, MIN vs BCE",27,8,0,0,2,6,2,2,1,0,1,7,0,0,3,3
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,SANTOS,MINAS STORM,"2026-11-14, MIN vs BCE",19,7,3,3,0,0,1,2,2,2,4,1,1,0,1,0
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,R. RACHEL,MINAS STORM,"2026-11-14, MIN vs BCE",17,5,2,4,0,2,1,4,3,2,5,0,2,0,1,2
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,COELHO,MINAS STORM,"2026-11-14, MIN vs BCE",23,3,0,2,1,4,0,0,1,0,1,4,1,0,1,1
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,TONHAO,MINAS STORM,"2026-11-14, MIN vs BCE",6,2,1,1,0,4,0,0,2,1,3,0,2,0,0,1
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,DUPREE,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",39,23,6,10,2,6,5,6,5,0,5,4,1,0,1,2
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,DANIELS,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",37,15,5,10,1,8,2,4,1,1,2,0,1,0,0,2
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,GABRIEL,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",27,8,1,4,2,5,0,0,3,0,3,1,1,0,4,5
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,TOM,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",23,6,3,6,0,0,0,0,0,4,4,2,0,1,4,3
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,AUGUSTO,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",15,4,0,0,1,4,1,2,1,0,1,0,0,0,0,5
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,SAMUEL,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",10,3,1,1,0,0,1,2,1,0,1,0,0,0,1,1
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,TAREK,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",8,2,1,2,0,0,0,2,3,0,3,2,0,0,0,0
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,PYERRI,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",17,2,1,3,0,0,0,0,2,1,3,0,0,2,0,2
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,LUAN,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",5,0,0,1,0,0,0,0,0,0,0,0,1,0,2,1
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",17,0,0,1,0,2,0,0,3,0,3,0,0,1,0,2
+nbb-caixa-2026-27-minas-storm-77-x-63-basquete-cearense,2026-27,NBB,GOMES,BASQUETE CEARENSE,"2026-11-14, MIN vs BCE",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,DA SILVA,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",36,24,7,17,0,0,10,12,14,9,23,3,0,2,3,1
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,ADYEL,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",18,10,2,6,0,4,6,8,1,0,1,1,0,0,1,3
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,GERSON,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",25,10,4,7,0,0,2,3,1,3,4,1,0,1,1,5
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,QUEIROS,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",11,8,1,2,2,3,0,0,1,0,1,2,1,0,2,2
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,NIQUE COLEMAN,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",27,7,1,5,1,6,2,2,1,0,1,0,0,0,1,2
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,CASSIANO,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",32,6,2,4,0,1,2,2,4,0,4,4,1,0,2,2
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,ANSALONI,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",12,4,2,3,0,2,0,0,1,2,3,3,0,0,1,3
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,LEO ABREU,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",22,2,1,3,0,1,0,0,4,0,4,9,2,0,0,3
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,MENCA,ITATIAIUCU CRUZEIRO,"2026-11-16, CRU vs BCE",16,2,1,2,0,2,0,0,2,0,2,0,2,1,2,3
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,DANIELS,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",39,22,3,8,3,5,7,8,2,2,4,7,0,0,2,3
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,DUPREE,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",39,17,1,8,4,8,3,4,7,0,7,8,4,0,0,3
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,GABRIEL,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",39,12,3,5,1,7,3,3,2,1,3,2,0,2,8,2
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,TOM,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",25,11,4,7,0,0,3,6,4,1,5,3,1,1,0,4
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",21,9,2,3,1,1,2,2,5,0,5,1,1,0,1,4
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,PYERRI,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",17,5,2,5,0,0,1,2,2,3,5,1,1,0,2,3
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,TAREK,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",17,1,0,1,0,2,1,4,2,1,3,0,0,0,1,2
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,LUAN,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+nbb-caixa-2026-27-itatiaiucu-cruzeiro-73-x-77-basquete-cearense,2026-27,NBB,AUGUSTO,BASQUETE CEARENSE,"2026-11-16, CRU vs BCE",2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,PAYTON,SAO JOSE,"2026-11-16, SJO vs MOG",34,19,6,10,2,6,1,1,0,1,1,3,0,0,2,0
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,SCHEUER,SAO JOSE,"2026-11-16, SJO vs MOG",26,16,8,15,0,0,0,0,4,4,8,2,0,1,2,3
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,DERICK,SAO JOSE,"2026-11-16, SJO vs MOG",26,10,4,11,0,4,2,2,3,3,6,2,1,0,0,2
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,MURILO,SAO JOSE,"2026-11-16, SJO vs MOG",20,8,1,1,2,2,0,0,5,0,5,0,1,1,3,1
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,GUIMARAES,SAO JOSE,"2026-11-16, SJO vs MOG",26,6,3,4,0,4,0,0,1,0,1,2,2,0,3,1
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,G. PESSOA,SAO JOSE,"2026-11-16, SJO vs MOG",7,4,2,2,0,1,0,0,2,0,2,0,0,0,0,0
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,DUARTE,SAO JOSE,"2026-11-16, SJO vs MOG",14,3,1,3,0,1,1,2,2,0,2,0,0,1,1,3
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,THOMPSON,SAO JOSE,"2026-11-16, SJO vs MOG",17,0,0,3,0,6,0,0,2,1,3,3,1,0,3,1
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,CRAVERO,SAO JOSE,"2026-11-16, SJO vs MOG",18,0,0,0,0,1,0,0,5,1,6,1,1,0,0,2
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,JACKSON JR.,SAO JOSE,"2026-11-16, SJO vs MOG",4,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,GEORGINHO,MOGI BASQUETE,"2026-11-16, SJO vs MOG",25,16,3,3,3,5,1,1,6,1,7,5,1,0,1,2
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,VON HAYDIN,MOGI BASQUETE,"2026-11-16, SJO vs MOG",24,15,3,4,3,5,0,0,4,1,5,5,2,0,1,1
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,LUCAS DIAS,MOGI BASQUETE,"2026-11-16, SJO vs MOG",26,12,2,5,2,11,2,4,3,3,6,1,0,0,2,1
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,PAULICHI,MOGI BASQUETE,"2026-11-16, SJO vs MOG",23,12,5,8,0,1,2,2,0,0,0,1,0,0,2,2
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,BRITE,MOGI BASQUETE,"2026-11-16, SJO vs MOG",25,10,2,6,2,4,0,0,5,0,5,2,1,0,2,0
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,PAULO,MOGI BASQUETE,"2026-11-16, SJO vs MOG",16,6,0,1,1,4,3,4,5,0,5,1,1,0,2,3
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,RUIVO,MOGI BASQUETE,"2026-11-16, SJO vs MOG",25,6,0,0,2,3,0,0,3,2,5,7,1,0,1,0
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,FUZARO,MOGI BASQUETE,"2026-11-16, SJO vs MOG",11,5,1,2,1,2,0,1,0,1,1,1,1,0,2,1
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,VITORIANO,MOGI BASQUETE,"2026-11-16, SJO vs MOG",2,3,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,DIKEMBE,MOGI BASQUETE,"2026-11-16, SJO vs MOG",7,1,0,3,0,0,1,2,2,2,4,0,0,0,1,2
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,BOMBA,MOGI BASQUETE,"2026-11-16, SJO vs MOG",2,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+nbb-caixa-2026-27-sao-jose-66-x-86-mogi-basquete,2026-27,NBB,PEDROSO,MOGI BASQUETE,"2026-11-16, SJO vs MOG",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,HINKLE,UNIFACISA,"2026-11-17, UFC vs BOT",35,27,5,7,4,6,5,6,7,1,8,2,2,0,3,2
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,ANTONIO,UNIFACISA,"2026-11-17, UFC vs BOT",32,20,4,5,3,5,3,3,5,2,7,0,2,0,0,2
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,M. BONFIM,UNIFACISA,"2026-11-17, UFC vs BOT",27,19,9,14,0,0,1,1,8,7,15,1,2,3,5,2
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,WEAVER,UNIFACISA,"2026-11-17, UFC vs BOT",34,11,4,9,1,3,0,0,4,1,5,3,0,1,2,2
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,PARANHOS,UNIFACISA,"2026-11-17, UFC vs BOT",17,8,4,8,0,0,0,0,5,1,6,0,0,0,2,3
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,JIMMY,UNIFACISA,"2026-11-17, UFC vs BOT",19,7,2,2,1,3,0,0,1,0,1,1,0,0,1,2
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,MATHEUSINHO,UNIFACISA,"2026-11-17, UFC vs BOT",16,5,1,2,0,5,3,4,2,0,2,4,0,1,0,3
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,JOAO PAULO,UNIFACISA,"2026-11-17, UFC vs BOT",12,4,0,2,0,1,4,4,0,0,0,1,0,1,0,0
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,FIGUEREDO,UNIFACISA,"2026-11-17, UFC vs BOT",31,3,0,1,1,5,0,0,2,0,2,12,0,0,3,2
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,FLORES,UNIFACISA,"2026-11-17, UFC vs BOT",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,DAVID CHAVES,UNIFACISA,"2026-11-17, UFC vs BOT",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,FISCHER,BOTAFOGO,"2026-11-17, UFC vs BOT",44,27,6,13,2,6,9,10,5,0,5,6,1,0,2,3
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,MUDRONJA,BOTAFOGO,"2026-11-17, UFC vs BOT",38,18,8,11,0,5,2,2,1,4,5,8,4,2,1,4
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,THORNTON,BOTAFOGO,"2026-11-17, UFC vs BOT",41,15,3,6,1,10,6,7,2,2,4,3,1,0,0,0
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,VINI CHAGAS,BOTAFOGO,"2026-11-17, UFC vs BOT",25,14,4,5,2,2,0,0,1,0,1,0,1,0,1,4
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,JP DEMETRIO,BOTAFOGO,"2026-11-17, UFC vs BOT",20,12,5,8,0,0,2,2,0,1,1,0,0,2,1,2
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,VITHINHO,BOTAFOGO,"2026-11-17, UFC vs BOT",28,7,1,3,1,4,2,2,5,1,6,3,1,1,3,0
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,LUCAS,BOTAFOGO,"2026-11-17, UFC vs BOT",9,2,1,2,0,2,0,0,2,0,2,0,1,0,0,4
+nbb-caixa-2026-27-unifacisa-104-x-95-botafogo,2026-27,NBB,HUMBERTO,BOTAFOGO,"2026-11-17, UFC vs BOT",20,0,0,2,0,0,0,0,2,1,3,3,1,1,1,2
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,NOVAES,CORINTHIANS,"2026-11-17, COR vs CAP",23,21,7,8,2,3,1,1,0,1,1,0,0,0,1,0
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,VICTAO,CORINTHIANS,"2026-11-17, COR vs CAP",32,19,5,6,3,5,0,1,4,2,6,2,1,1,3,3
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,CARDOSO,CORINTHIANS,"2026-11-17, COR vs CAP",23,10,4,5,0,0,2,5,6,0,6,1,1,2,1,0
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,BETINHO,CORINTHIANS,"2026-11-17, COR vs CAP",21,9,3,6,0,3,3,4,5,0,5,1,3,0,2,2
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,TICO FARIA,CORINTHIANS,"2026-11-17, COR vs CAP",18,8,2,5,1,2,1,1,2,0,2,0,0,0,1,2
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-11-17, COR vs CAP",28,5,1,3,1,1,0,0,2,0,2,3,1,0,3,2
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,CAUE,CORINTHIANS,"2026-11-17, COR vs CAP",21,4,2,2,0,4,0,0,3,0,3,4,1,0,1,2
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,ELINHO,CORINTHIANS,"2026-11-17, COR vs CAP",34,3,0,1,1,2,0,0,3,2,5,10,1,0,5,1
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,TOVAR,PAULISTANO,"2026-11-17, COR vs CAP",31,23,7,9,3,4,0,0,2,1,3,1,8,0,5,2
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,ANDERSON,PAULISTANO,"2026-11-17, COR vs CAP",30,12,2,7,2,5,2,2,4,4,8,3,2,0,2,3
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,NICKEL,PAULISTANO,"2026-11-17, COR vs CAP",13,11,2,6,2,3,1,1,0,0,0,3,1,0,1,2
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,AVANSO,PAULISTANO,"2026-11-17, COR vs CAP",17,7,2,2,1,2,0,0,2,0,2,0,1,0,0,0
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,SEIXAS,PAULISTANO,"2026-11-17, COR vs CAP",30,7,3,6,0,5,1,2,2,0,2,3,0,0,1,1
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,LEANDRO,PAULISTANO,"2026-11-17, COR vs CAP",24,5,0,4,1,5,2,2,4,1,5,0,0,2,0,4
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,MAIQUE,PAULISTANO,"2026-11-17, COR vs CAP",19,4,2,2,0,1,0,0,1,2,3,0,0,0,1,1
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,MACEDO,PAULISTANO,"2026-11-17, COR vs CAP",16,2,1,4,0,0,0,0,0,1,1,0,0,0,0,1
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,RICH,PAULISTANO,"2026-11-17, COR vs CAP",17,2,0,1,0,0,2,2,6,0,6,0,1,0,1,1
+nbb-caixa-2026-27-corinthians-79-x-73-paulistano,2026-27,NBB,DIEGO ZAGO,PAULISTANO,"2026-11-17, COR vs CAP",4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,DAVID JACKSON,SESI FRANCA,"2026-11-18, FRA vs CAX",23,17,2,4,3,4,4,5,4,2,6,2,1,1,2,1
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,VITINHO,SESI FRANCA,"2026-11-18, FRA vs CAX",27,15,3,7,2,4,3,4,1,1,2,5,4,0,0,2
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,ANDREZAO,SESI FRANCA,"2026-11-18, FRA vs CAX",28,14,7,10,0,0,0,1,6,0,6,0,0,0,2,4
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,GUI,SESI FRANCA,"2026-11-18, FRA vs CAX",26,12,0,0,4,6,0,0,3,0,3,3,1,0,2,1
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,REYNAN,SESI FRANCA,"2026-11-18, FRA vs CAX",29,8,4,5,0,5,0,2,5,0,5,2,0,1,3,1
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,VINI SANTOS,SESI FRANCA,"2026-11-18, FRA vs CAX",15,7,2,3,1,3,0,0,1,0,1,0,2,0,1,1
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,PARODI,SESI FRANCA,"2026-11-18, FRA vs CAX",18,4,1,2,0,0,2,2,1,1,2,9,2,0,1,3
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,SOLANO,SESI FRANCA,"2026-11-18, FRA vs CAX",12,4,2,2,0,2,0,0,4,0,4,0,0,0,1,1
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,NICOLINI,SESI FRANCA,"2026-11-18, FRA vs CAX",12,3,0,1,1,5,0,0,2,0,2,3,2,1,0,2
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,ALE,SESI FRANCA,"2026-11-18, FRA vs CAX",2,3,1,1,0,0,1,1,0,1,1,0,0,0,0,0
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,ARTHUR,SESI FRANCA,"2026-11-18, FRA vs CAX",9,2,1,2,0,0,0,0,1,0,1,1,0,0,0,3
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,BOLIVAR,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",36,20,3,9,4,9,2,2,6,0,6,5,2,0,2,1
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,NK,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",23,11,2,9,0,1,7,10,7,0,7,0,1,0,2,2
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,ISAAC R.,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",29,9,0,1,3,5,0,0,2,0,2,3,1,0,1,3
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,JHONATAN,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",17,8,4,8,0,0,0,0,3,3,6,1,0,2,2,1
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,NAKA,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",32,6,3,5,0,3,0,0,4,2,6,8,1,0,5,2
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,RAFA,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",20,4,2,4,0,0,0,0,1,0,1,1,1,0,0,2
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,MIGUEL,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",14,4,1,2,0,1,2,2,2,0,2,0,0,0,1,2
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,OMENA,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",13,0,0,1,0,1,0,0,1,0,1,1,0,0,4,1
+nbb-caixa-2026-27-sesi-franca-89-x-62-caxias-do-sul-basquete,2026-27,NBB,PEDRO,CAXIAS DO SUL,"2026-11-18, FRA vs CAX",16,0,0,1,0,2,0,0,2,0,2,3,2,0,0,3
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,ALE,PATO BASQUETE,"2026-11-19, PAT vs COR",31,19,2,4,3,6,6,8,7,2,9,6,1,0,3,3
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,M. DOUGLAS,PATO BASQUETE,"2026-11-19, PAT vs COR",30,18,9,11,0,2,0,1,4,3,7,1,0,3,1,4
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,G. RIBEIRO,PATO BASQUETE,"2026-11-19, PAT vs COR",25,13,2,4,2,7,3,4,5,2,7,0,1,0,0,2
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,THAYLOR,PATO BASQUETE,"2026-11-19, PAT vs COR",17,6,0,1,1,1,3,4,0,0,0,3,0,0,4,1
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,FELIPE,PATO BASQUETE,"2026-11-19, PAT vs COR",14,5,2,5,0,0,1,2,1,0,1,0,0,1,1,3
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,ANJOS,PATO BASQUETE,"2026-11-19, PAT vs COR",11,4,2,2,0,1,0,0,1,0,1,0,1,0,1,1
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,BELLER,PATO BASQUETE,"2026-11-19, PAT vs COR",20,4,1,2,0,5,2,2,2,1,3,2,3,0,0,6
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,GILLARD,PATO BASQUETE,"2026-11-19, PAT vs COR",23,3,1,3,0,5,1,5,6,0,6,2,3,0,1,1
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,KAMGAIN,PATO BASQUETE,"2026-11-19, PAT vs COR",20,1,0,1,0,2,1,2,0,0,0,1,1,0,3,1
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,LUCIO,PATO BASQUETE,"2026-11-19, PAT vs COR",9,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,VICTAO,CORINTHIANS,"2026-11-19, PAT vs COR",34,18,2,5,4,11,2,2,5,2,7,1,0,1,3,2
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-11-19, PAT vs COR",23,12,2,4,2,6,2,2,2,0,2,1,0,0,1,3
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,ELINHO,CORINTHIANS,"2026-11-19, PAT vs COR",38,11,0,3,3,5,2,4,7,2,9,7,4,0,6,3
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,BETINHO,CORINTHIANS,"2026-11-19, PAT vs COR",19,8,1,3,2,7,0,0,4,1,5,3,0,0,2,0
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,CARDOSO,CORINTHIANS,"2026-11-19, PAT vs COR",27,8,3,3,0,0,2,3,5,2,7,1,2,1,1,5
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,CAUE,CORINTHIANS,"2026-11-19, PAT vs COR",22,8,1,6,2,3,0,0,3,0,3,4,2,0,2,4
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,NOVAES,CORINTHIANS,"2026-11-19, PAT vs COR",18,5,0,2,0,0,5,6,1,2,3,1,1,0,1,3
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,PEREIRA,CORINTHIANS,"2026-11-19, PAT vs COR",10,2,1,1,0,0,0,0,1,0,1,0,1,0,1,3
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,TICO FARIA,CORINTHIANS,"2026-11-19, PAT vs COR",8,2,0,0,0,0,2,2,1,0,1,1,0,0,0,1
+nbb-caixa-2026-27-pato-basquete-73-x-74-corinthians,2026-27,NBB,LEAL,CORINTHIANS,"2026-11-19, PAT vs COR",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,BRIDGEWATER,PINHEIROS,"2026-11-19, PIN vs CRU",28,21,7,11,1,4,4,5,3,1,4,4,3,0,4,0
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,GREGATE,PINHEIROS,"2026-11-19, PIN vs CRU",25,10,3,6,1,4,1,1,4,0,4,5,1,0,6,1
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,VEZARO,PINHEIROS,"2026-11-19, PIN vs CRU",16,10,1,2,2,4,2,2,1,0,1,0,0,0,2,0
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,EDU SANTOS,PINHEIROS,"2026-11-19, PIN vs CRU",16,10,2,2,2,4,0,0,3,2,5,1,0,1,1,3
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,BORACINA,PINHEIROS,"2026-11-19, PIN vs CRU",21,9,0,0,3,4,0,0,1,0,1,3,0,0,0,1
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-11-19, PIN vs CRU",26,9,2,5,1,5,2,4,3,2,5,1,1,0,1,1
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,NESBITT,PINHEIROS,"2026-11-19, PIN vs CRU",14,7,2,3,1,3,0,0,2,2,4,0,0,2,0,3
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,BRAYAN,PINHEIROS,"2026-11-19, PIN vs CRU",22,6,3,5,0,1,0,0,5,2,7,1,0,1,2,4
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,GRIGOR,PINHEIROS,"2026-11-19, PIN vs CRU",23,5,1,1,1,4,0,0,9,4,13,0,2,1,1,3
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,THOR,PINHEIROS,"2026-11-19, PIN vs CRU",2,1,0,1,0,1,1,2,0,1,1,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,GOERINO,PINHEIROS,"2026-11-19, PIN vs CRU",5,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,JOSUE,PINHEIROS,"2026-11-19, PIN vs CRU",2,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,NIQUE COLEMAN,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",31,19,3,4,4,10,1,1,3,1,4,2,0,0,3,3
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,DA SILVA,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",37,17,5,13,0,0,7,8,8,2,10,3,0,0,2,1
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,QUEIROS,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",24,12,3,6,2,5,0,1,2,1,3,1,2,0,2,1
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,ANSALONI,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",20,10,3,7,1,4,1,2,3,0,3,2,0,0,0,1
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,LEO ABREU,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",28,5,2,3,0,0,1,2,3,0,3,5,4,0,3,2
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,CASSIANO,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",24,4,1,5,0,1,2,2,1,2,3,2,0,0,0,3
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,GERSON,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",17,4,2,3,0,0,0,0,2,0,2,1,1,0,0,3
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,MENCA,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",15,3,1,5,0,2,1,1,1,1,2,0,1,0,0,1
+nbb-caixa-2026-27-pinheiros-88-x-74-itatiaiucu-cruzeiro-basquete,2026-27,NBB,EMERSON SILVA,ITATIAIUCU CRUZEIRO,"2026-11-19, PIN vs CRU",4,0,0,0,0,2,0,0,0,1,1,0,1,0,0,1
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,JJ,BASKET OSASCO,"2026-11-19, OSA vs MIN",36,19,3,6,4,10,1,2,2,0,2,2,0,1,1,2
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,LESSA,BASKET OSASCO,"2026-11-19, OSA vs MIN",27,10,0,4,2,6,4,6,2,1,3,2,2,0,2,1
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,GABRIEL,BASKET OSASCO,"2026-11-19, OSA vs MIN",5,9,3,3,0,0,3,4,1,4,5,0,0,0,0,0
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,PASSOS,BASKET OSASCO,"2026-11-19, OSA vs MIN",24,8,4,5,0,0,0,0,7,4,11,1,1,0,2,3
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-11-19, OSA vs MIN",31,8,1,4,2,4,0,0,5,2,7,2,0,0,4,2
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,VINICIUS,BASKET OSASCO,"2026-11-19, OSA vs MIN",20,5,1,3,1,6,0,0,0,0,0,2,0,0,2,1
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,JON,BASKET OSASCO,"2026-11-19, OSA vs MIN",19,3,1,6,0,3,1,2,3,2,5,1,1,1,3,4
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,FIDELIS,BASKET OSASCO,"2026-11-19, OSA vs MIN",8,2,0,1,0,0,2,2,4,0,4,2,0,0,1,2
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,FABIO,BASKET OSASCO,"2026-11-19, OSA vs MIN",2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,JULIO,BASKET OSASCO,"2026-11-19, OSA vs MIN",9,0,0,1,0,4,0,0,0,0,0,0,1,0,0,2
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,BARRY,BASKET OSASCO,"2026-11-19, OSA vs MIN",18,0,0,4,0,1,0,0,3,0,3,1,0,0,0,0
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,ABREU,MINAS STORM,"2026-11-19, OSA vs MIN",29,14,3,8,2,5,2,3,7,0,7,3,3,0,1,1
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,SANTOS,MINAS STORM,"2026-11-19, OSA vs MIN",16,12,5,6,0,0,2,2,6,2,8,1,0,3,0,3
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,R. RACHEL,MINAS STORM,"2026-11-19, OSA vs MIN",22,9,4,8,0,3,1,3,3,1,4,0,2,0,2,2
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,SCALA,MINAS STORM,"2026-11-19, OSA vs MIN",23,9,0,0,3,3,0,0,1,0,1,9,0,0,1,2
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,HOLLOWELL,MINAS STORM,"2026-11-19, OSA vs MIN",24,9,2,5,1,4,2,4,3,1,4,0,0,0,4,1
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,COELHO,MINAS STORM,"2026-11-19, OSA vs MIN",20,8,3,4,0,5,2,2,2,2,4,2,0,0,2,3
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,NEPTUNE,MINAS STORM,"2026-11-19, OSA vs MIN",16,8,4,5,0,1,0,0,3,1,4,2,1,0,0,2
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,CLARK,MINAS STORM,"2026-11-19, OSA vs MIN",24,6,2,7,0,3,2,3,2,2,4,2,2,0,2,0
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,WESLEY,MINAS STORM,"2026-11-19, OSA vs MIN",23,6,1,1,1,3,1,2,4,4,8,4,0,2,1,3
+nbb-caixa-2026-27-basket-osasco-64-x-81-minas-storm,2026-27,NBB,TONHAO,MINAS STORM,"2026-11-19, OSA vs MIN",3,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,VIETA,BAURU BASKET,"2026-11-20, BAU vs CAX",32,20,3,4,3,7,5,6,9,0,9,1,0,0,4,2
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,BENNETT,BAURU BASKET,"2026-11-20, BAU vs CAX",28,12,3,6,2,4,0,0,1,2,3,6,1,0,3,3
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,VITOR,BAURU BASKET,"2026-11-20, BAU vs CAX",18,12,6,7,0,0,0,0,1,4,5,1,0,0,2,2
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,ALEX,BAURU BASKET,"2026-11-20, BAU vs CAX",35,8,4,6,0,3,0,1,6,0,6,5,1,0,1,2
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,THYGESEN,BAURU BASKET,"2026-11-20, BAU vs CAX",18,8,1,2,2,4,0,0,2,0,2,4,1,0,1,2
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,RODRIGUES,BAURU BASKET,"2026-11-20, BAU vs CAX",15,4,1,4,0,0,2,2,1,2,3,1,0,0,2,1
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,MOGI,BAURU BASKET,"2026-11-20, BAU vs CAX",14,3,0,3,0,0,3,4,3,0,3,1,0,1,0,0
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,GUSTAVO,BAURU BASKET,"2026-11-20, BAU vs CAX",10,2,0,1,0,1,2,4,1,0,1,0,0,0,0,2
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,HARRIS,BAURU BASKET,"2026-11-20, BAU vs CAX",30,1,0,4,0,3,1,2,1,0,1,1,2,4,4,3
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,BOLIVAR,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",32,21,1,5,4,9,7,8,4,1,5,2,0,0,4,0
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,NK,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",22,18,9,11,0,0,0,3,5,1,6,1,0,0,3,5
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,RAFA,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",18,11,2,3,1,2,4,5,3,0,3,1,0,0,0,1
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,NAKA,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",22,6,3,7,0,5,0,0,4,2,6,9,3,1,2,4
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,ISAAC R.,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",25,5,0,0,1,3,2,3,4,0,4,2,0,0,0,2
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,OMENA,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",25,4,1,3,0,4,2,2,3,0,3,4,4,0,0,4
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,JHONATAN,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",13,4,1,2,0,0,2,2,2,1,3,0,0,0,2,5
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,PEDRO,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",22,4,2,5,0,1,0,0,1,2,3,5,2,0,0,0
+nbb-caixa-2026-27-bauru-basket-70-x-73-caxias-do-sul-basquete,2026-27,NBB,MIGUEL,CAXIAS DO SUL,"2026-11-20, BAU vs CAX",20,0,0,3,0,0,0,0,1,2,3,2,0,0,1,0
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,DANIELS,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",34,21,3,7,4,9,3,4,4,0,4,7,0,1,1,3
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,GABRIEL,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",34,15,3,4,2,7,3,4,1,1,2,2,1,0,0,4
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,DUPREE,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",32,10,4,9,0,4,2,5,2,2,4,1,4,1,5,3
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,PYERRI,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",31,7,2,8,0,0,3,5,6,5,11,0,0,1,2,3
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,JEANZINHO,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",11,5,1,1,1,2,0,0,1,0,1,0,1,0,3,2
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,TOM,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",28,4,2,4,0,0,0,2,5,1,6,2,0,1,3,4
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",13,3,0,1,1,5,0,0,2,2,4,1,0,0,1,2
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,LUAN,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",8,2,1,1,0,0,0,0,1,1,2,0,0,0,0,1
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,AUGUSTO,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",6,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,TAREK,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,GOMES,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,SAMUEL,BASQUETE CEARENSE,"2026-11-20, BCE vs BOT",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,MUDRONJA,BOTAFOGO,"2026-11-20, BCE vs BOT",30,23,7,11,1,2,6,6,7,0,7,3,2,0,2,1
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,FISCHER,BOTAFOGO,"2026-11-20, BCE vs BOT",28,19,3,5,4,8,1,4,0,0,0,2,1,0,0,3
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,THORNTON,BOTAFOGO,"2026-11-20, BCE vs BOT",35,13,1,4,0,2,11,13,2,0,2,0,1,0,1,1
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,VINI CHAGAS,BOTAFOGO,"2026-11-20, BCE vs BOT",33,12,4,5,1,4,1,2,3,1,4,1,1,0,1,3
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,JP DEMETRIO,BOTAFOGO,"2026-11-20, BCE vs BOT",16,6,3,6,0,0,0,0,1,0,1,0,0,0,0,2
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,LUCAS,BOTAFOGO,"2026-11-20, BCE vs BOT",11,4,0,2,1,2,1,2,2,1,3,0,0,0,0,2
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,HUMBERTO,BOTAFOGO,"2026-11-20, BCE vs BOT",26,2,1,3,0,0,0,0,4,2,6,5,0,0,3,4
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,VITHINHO,BOTAFOGO,"2026-11-20, BCE vs BOT",21,1,0,0,0,4,1,2,4,0,4,7,2,0,2,3
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,JOAO DAVI,BOTAFOGO,"2026-11-20, BCE vs BOT",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-basquete-cearense-67-x-80-botafogo,2026-27,NBB,CRISTOVAO,BOTAFOGO,"2026-11-20, BCE vs BOT",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,JJ,BASKET OSASCO,"2026-11-21, OSA vs CRU",36,20,2,6,4,7,4,5,1,0,1,1,1,0,2,1
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,JON,BASKET OSASCO,"2026-11-21, OSA vs CRU",18,15,6,6,1,2,0,0,5,3,8,1,1,0,0,3
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,J. LUZ,BASKET OSASCO,"2026-11-21, OSA vs CRU",24,10,2,2,1,8,3,4,6,0,6,5,0,0,1,4
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,LESSA,BASKET OSASCO,"2026-11-21, OSA vs CRU",20,6,3,5,0,2,0,0,1,0,1,2,0,0,3,0
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,JULIO,BASKET OSASCO,"2026-11-21, OSA vs CRU",16,5,1,1,1,5,0,0,3,0,3,2,1,0,0,3
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,BARRY,BASKET OSASCO,"2026-11-21, OSA vs CRU",17,5,0,2,1,2,2,4,4,2,6,2,0,0,0,2
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,VINICIUS,BASKET OSASCO,"2026-11-21, OSA vs CRU",16,5,0,3,1,3,2,2,1,0,1,1,0,0,3,1
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,GABRIEL,BASKET OSASCO,"2026-11-21, OSA vs CRU",14,4,2,4,0,0,0,0,1,0,1,0,0,0,0,2
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,FIDELIS,BASKET OSASCO,"2026-11-21, OSA vs CRU",17,2,1,3,0,1,0,2,2,1,3,1,0,1,1,4
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,PASSOS,BASKET OSASCO,"2026-11-21, OSA vs CRU",19,0,0,0,0,0,0,0,4,2,6,2,1,1,3,2
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,FABIO,BASKET OSASCO,"2026-11-21, OSA vs CRU",2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,DA SILVA,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",31,17,6,12,0,1,5,6,7,3,10,3,1,0,1,1
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,NIQUE COLEMAN,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",18,14,3,7,1,4,5,5,1,0,1,3,1,0,2,1
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,CASSIANO,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",28,12,2,7,2,2,2,3,0,0,0,2,0,0,0,2
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,MENCA,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",18,12,2,3,1,3,5,5,1,0,1,1,0,0,1,3
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,QUEIROS,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",25,11,1,3,3,5,0,0,4,0,4,0,1,1,0,2
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,LEO ABREU,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",32,10,1,2,2,2,2,2,7,1,8,11,1,0,1,1
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,ANSALONI,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",21,10,2,3,1,1,3,4,1,1,2,0,2,0,0,2
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,GERSON,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",22,4,2,6,0,0,0,0,4,0,4,2,0,0,2,4
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,EMERSON SILVA,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+nbb-caixa-2026-27-basket-osasco-72-x-90-itatiaiucu-cruzeiro-basquete,2026-27,NBB,PAULINO,ITATIAIUCU CRUZEIRO,"2026-11-21, OSA vs CRU",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,BRIDGEWATER,PINHEIROS,"2026-11-21, PIN vs MIN",29,23,3,7,4,8,5,7,0,0,0,3,1,0,3,3
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,EDU SANTOS,PINHEIROS,"2026-11-21, PIN vs MIN",19,10,2,4,1,3,3,3,4,1,5,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,BRAYAN,PINHEIROS,"2026-11-21, PIN vs MIN",22,7,2,5,1,6,0,2,2,1,3,0,0,1,0,3
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,WEATHERSPOON,PINHEIROS,"2026-11-21, PIN vs MIN",23,5,2,3,0,4,1,1,6,1,7,3,1,0,1,1
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,BORACINA,PINHEIROS,"2026-11-21, PIN vs MIN",20,4,1,3,0,2,2,2,3,0,3,4,1,0,0,3
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,GREGATE,PINHEIROS,"2026-11-21, PIN vs MIN",21,4,2,5,0,2,0,0,1,0,1,1,1,0,2,2
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,GRIGOR,PINHEIROS,"2026-11-21, PIN vs MIN",25,2,1,2,0,2,0,2,2,0,2,0,0,1,0,4
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,NESBITT,PINHEIROS,"2026-11-21, PIN vs MIN",17,2,1,1,0,6,0,0,2,3,5,1,1,0,0,2
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,JOSUE,PINHEIROS,"2026-11-21, PIN vs MIN",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,VEZARO,PINHEIROS,"2026-11-21, PIN vs MIN",19,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,GOERINO,PINHEIROS,"2026-11-21, PIN vs MIN",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,THOR,PINHEIROS,"2026-11-21, PIN vs MIN",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,HOLLOWELL,MINAS STORM,"2026-11-21, PIN vs MIN",24,18,4,7,2,4,4,4,5,1,6,1,0,2,2,2
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,COELHO,MINAS STORM,"2026-11-21, PIN vs MIN",28,15,4,9,2,2,1,2,1,0,1,4,0,0,1,1
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,ABREU,MINAS STORM,"2026-11-21, PIN vs MIN",29,15,4,5,2,6,1,1,4,3,7,0,0,1,0,2
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,WESLEY,MINAS STORM,"2026-11-21, PIN vs MIN",28,15,5,6,1,2,2,2,8,3,11,3,0,0,0,2
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,SCALA,MINAS STORM,"2026-11-21, PIN vs MIN",12,9,1,1,1,2,4,4,1,0,1,2,0,0,5,4
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,CLARK,MINAS STORM,"2026-11-21, PIN vs MIN",24,9,1,6,2,6,1,1,3,0,3,5,0,0,0,1
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,NEPTUNE,MINAS STORM,"2026-11-21, PIN vs MIN",18,5,1,2,1,3,0,0,3,1,4,1,1,0,0,1
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,SANTOS,MINAS STORM,"2026-11-21, PIN vs MIN",17,4,1,3,0,1,2,2,6,3,9,1,1,0,1,3
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,TONHAO,MINAS STORM,"2026-11-21, PIN vs MIN",2,3,0,0,1,2,0,0,1,0,1,0,0,0,0,0
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,R. RACHEL,MINAS STORM,"2026-11-21, PIN vs MIN",17,1,0,0,0,3,1,2,5,0,5,3,0,0,0,2
+nbb-caixa-2026-27-pinheiros-57-x-94-minas-storm,2026-27,NBB,CUNHA,MINAS STORM,"2026-11-21, PIN vs MIN",2,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,SCHEUER,SAO JOSE,"2026-11-22, SJO vs COR",32,20,8,13,0,0,4,6,6,1,7,1,1,0,2,3
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,THOMPSON,SAO JOSE,"2026-11-22, SJO vs COR",26,11,4,6,1,7,0,0,0,0,0,4,0,0,1,4
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,PAYTON,SAO JOSE,"2026-11-22, SJO vs COR",31,9,4,10,0,3,1,2,1,3,4,3,2,0,1,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,DERICK,SAO JOSE,"2026-11-22, SJO vs COR",28,9,4,6,0,5,1,2,6,3,9,3,2,0,4,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,MURILO,SAO JOSE,"2026-11-22, SJO vs COR",27,7,0,3,2,2,1,2,6,1,7,1,1,0,0,2
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,GUIMARAES,SAO JOSE,"2026-11-22, SJO vs COR",16,5,0,1,1,4,2,2,0,1,1,3,0,0,1,3
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,DUARTE,SAO JOSE,"2026-11-22, SJO vs COR",8,3,1,1,0,0,1,2,1,0,1,0,0,0,1,2
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,G. PESSOA,SAO JOSE,"2026-11-22, SJO vs COR",19,3,1,3,0,3,1,4,6,4,10,3,2,0,2,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,JACKSON JR.,SAO JOSE,"2026-11-22, SJO vs COR",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,CRAVERO,SAO JOSE,"2026-11-22, SJO vs COR",10,0,0,2,0,0,0,0,3,0,3,0,0,0,0,0
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,VICTAO,CORINTHIANS,"2026-11-22, SJO vs COR",35,18,3,4,4,8,0,1,3,1,4,4,1,0,1,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,ELINHO,CORINTHIANS,"2026-11-22, SJO vs COR",37,15,1,2,4,7,1,1,5,0,5,13,2,0,3,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,CARDOSO,CORINTHIANS,"2026-11-22, SJO vs COR",18,12,4,7,0,3,4,8,6,2,8,0,1,1,0,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,GEMADINHA,CORINTHIANS,"2026-11-22, SJO vs COR",24,11,1,4,3,6,0,0,1,0,1,0,0,0,2,3
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,BETINHO,CORINTHIANS,"2026-11-22, SJO vs COR",21,10,1,1,2,4,2,2,1,0,1,3,0,0,3,3
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,PEREIRA,CORINTHIANS,"2026-11-22, SJO vs COR",10,5,1,2,1,3,0,0,0,0,0,1,0,0,0,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,CAUE,CORINTHIANS,"2026-11-22, SJO vs COR",23,5,1,2,1,3,0,0,3,1,4,3,0,0,1,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,LEAL,CORINTHIANS,"2026-11-22, SJO vs COR",10,3,1,1,0,0,1,2,3,1,4,0,0,0,2,3
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,NOVAES,CORINTHIANS,"2026-11-22, SJO vs COR",16,3,1,3,0,0,1,2,3,0,3,1,0,0,0,3
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,LUIGGI,CORINTHIANS,"2026-11-22, SJO vs COR",2,2,0,0,0,1,2,2,1,0,1,0,0,0,0,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,MARTINEZ,CORINTHIANS,"2026-11-22, SJO vs COR",3,2,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+nbb-caixa-2026-27-sao-jose-basketball-67-x-86-corinthians,2026-27,NBB,FIGUEIRA,CORINTHIANS,"2026-11-22, SJO vs COR",2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,FERNANDEZ,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",27,30,4,6,7,9,1,1,3,0,3,0,2,0,0,2
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,CYLLA,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",34,17,5,15,0,1,7,9,2,6,8,3,2,0,1,0
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,CRESCENZI,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",32,14,3,9,2,6,2,4,5,1,6,7,0,0,3,3
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,BUIU,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",26,9,2,5,1,2,2,2,2,1,3,3,0,0,4,2
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,RAYMUNDO,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",22,8,2,7,0,2,4,6,4,3,7,1,1,1,1,3
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,AUGUSTO,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",20,4,0,0,0,1,4,4,2,1,3,5,1,0,1,2
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,BASTIAN,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",17,2,1,4,0,0,0,2,6,2,8,1,1,1,1,4
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,ARIEL,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",1,1,0,0,0,0,1,2,1,1,2,0,0,0,1,0
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,PAIVA,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",7,1,0,1,0,0,1,4,0,2,2,1,1,0,0,2
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,GUEIROS,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",7,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,GUGA,CAIXA/BRASILIA,"2026-11-22, BRA vs PAT",6,0,0,2,0,0,0,0,0,0,0,0,2,1,0,1
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,KAMGAIN,PATO BASQUETE,"2026-11-22, BRA vs PAT",24,20,2,5,5,11,1,1,2,0,2,3,0,0,1,1
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,BELLER,PATO BASQUETE,"2026-11-22, BRA vs PAT",21,11,2,2,1,3,4,4,1,1,2,2,2,0,1,4
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,THAYLOR,PATO BASQUETE,"2026-11-22, BRA vs PAT",21,9,0,2,1,4,6,8,0,0,0,1,0,0,2,4
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,GILLARD,PATO BASQUETE,"2026-11-22, BRA vs PAT",20,8,0,2,2,6,2,3,6,0,6,0,1,0,0,1
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,M. DOUGLAS,PATO BASQUETE,"2026-11-22, BRA vs PAT",22,8,4,5,0,0,0,2,4,2,6,0,1,1,3,4
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,FELIPE,PATO BASQUETE,"2026-11-22, BRA vs PAT",18,7,2,3,0,0,3,4,7,0,7,0,0,1,2,1
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,G. RIBEIRO,PATO BASQUETE,"2026-11-22, BRA vs PAT",19,5,1,2,1,2,0,1,1,1,2,0,1,1,0,4
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,M. JAMELAO,PATO BASQUETE,"2026-11-22, BRA vs PAT",18,4,2,4,0,5,0,0,2,0,2,3,1,0,5,5
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,ANJOS,PATO BASQUETE,"2026-11-22, BRA vs PAT",20,2,1,2,0,1,0,1,2,3,5,2,0,0,0,1
+nbb-caixa-2026-27-caixa-brasilia-85-x-74-pato-basquete,2026-27,NBB,ALE,PATO BASQUETE,"2026-11-22, BRA vs PAT",16,0,0,3,0,1,0,2,0,1,1,4,2,0,3,2
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,DUPREE,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",40,20,3,6,4,13,2,3,2,0,2,3,3,0,0,3
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,DANIELS,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",35,14,4,5,2,9,0,0,2,1,3,2,1,0,1,3
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,GABRIEL,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",31,13,3,5,1,3,4,6,3,1,4,1,2,0,2,4
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,LUAN,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",14,11,5,8,0,4,1,4,1,2,3,2,2,0,1,1
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,JEANZINHO,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",13,3,0,3,1,2,0,0,2,0,2,3,1,0,3,0
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,TAREK,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",11,2,1,3,0,1,0,2,1,1,2,1,1,0,0,2
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,PYERRI,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",10,2,0,1,0,0,2,2,0,1,1,0,0,0,1,2
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,V. CAUA,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",18,1,0,1,0,0,1,2,2,1,3,1,0,0,1,4
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,TOM,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",26,0,0,1,0,0,0,0,0,0,0,0,1,0,2,4
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,SAMUEL,BASQUETE CEARENSE,"2026-11-22, BCE vs FLA",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,YAGO,FLAMENGO,"2026-11-22, BCE vs FLA",25,17,0,3,3,8,8,11,3,1,4,5,0,0,1,0
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,NEGRETE,FLAMENGO,"2026-11-22, BCE vs FLA",33,14,1,1,3,4,3,4,4,0,4,7,2,0,5,2
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,RUAN,FLAMENGO,"2026-11-22, BCE vs FLA",14,12,6,7,0,0,0,4,5,0,5,1,0,0,3,3
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,MONTERO,FLAMENGO,"2026-11-22, BCE vs FLA",21,10,2,2,1,1,3,5,4,2,6,4,2,0,2,3
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,DJALO,FLAMENGO,"2026-11-22, BCE vs FLA",19,9,1,3,2,5,1,2,1,1,2,2,0,1,0,3
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,MANEL,FLAMENGO,"2026-11-22, BCE vs FLA",17,9,3,5,0,1,3,4,3,3,6,1,1,0,1,1
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,DOS SANTOS,FLAMENGO,"2026-11-22, BCE vs FLA",22,8,4,5,0,0,0,0,3,2,5,1,0,2,2,2
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,FREEMAN,FLAMENGO,"2026-11-22, BCE vs FLA",9,8,3,5,0,0,2,6,3,1,4,1,0,0,0,2
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,ALEXEY,FLAMENGO,"2026-11-22, BCE vs FLA",20,5,1,2,1,5,0,0,3,0,3,2,1,0,3,0
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,IGOR,FLAMENGO,"2026-11-22, BCE vs FLA",8,0,0,0,0,1,0,0,0,0,0,0,2,0,0,2
+nbb-caixa-2026-27-basquete-cearense-66-x-92-flamengo,2026-27,NBB,BARALLE,FLAMENGO,"2026-11-22, BCE vs FLA",12,0,0,0,0,1,0,0,1,1,2,0,0,0,1,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,PAULO,MOGI BASQUETE,"2026-11-22, MOG vs CAP",24,20,4,7,4,6,0,0,4,1,5,2,2,0,1,2
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,GEORGINHO,MOGI BASQUETE,"2026-11-22, MOG vs CAP",27,15,4,4,1,4,4,5,7,0,7,8,0,0,2,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,RUIVO,MOGI BASQUETE,"2026-11-22, MOG vs CAP",25,14,1,2,4,5,0,0,2,0,2,2,1,0,2,1
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,VON HAYDIN,MOGI BASQUETE,"2026-11-22, MOG vs CAP",24,11,1,1,2,6,3,3,5,2,7,3,0,1,2,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,BRITE,MOGI BASQUETE,"2026-11-22, MOG vs CAP",24,8,2,2,1,6,1,2,2,1,3,5,1,0,1,3
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,LUCAS DIAS,MOGI BASQUETE,"2026-11-22, MOG vs CAP",24,7,3,4,0,3,1,2,1,1,2,2,2,1,2,3
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,FUZARO,MOGI BASQUETE,"2026-11-22, MOG vs CAP",20,6,2,2,0,2,2,2,2,0,2,3,2,0,0,2
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,DIKEMBE,MOGI BASQUETE,"2026-11-22, MOG vs CAP",10,4,2,3,0,0,0,0,3,0,3,0,1,1,2,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,PAULICHI,MOGI BASQUETE,"2026-11-22, MOG vs CAP",18,4,2,4,0,0,0,0,2,0,2,1,0,0,1,3
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,BAVOSO,MOGI BASQUETE,"2026-11-22, MOG vs CAP",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,VITORIANO,MOGI BASQUETE,"2026-11-22, MOG vs CAP",2,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,PEDROSO,MOGI BASQUETE,"2026-11-22, MOG vs CAP",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,ANDERSON,PAULISTANO,"2026-11-22, MOG vs CAP",26,19,6,11,2,8,1,3,3,1,4,2,2,0,0,4
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,NICKEL,PAULISTANO,"2026-11-22, MOG vs CAP",22,14,1,3,4,6,0,0,1,0,1,2,0,0,3,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,TOVAR,PAULISTANO,"2026-11-22, MOG vs CAP",29,14,2,4,3,6,1,1,2,0,2,4,2,0,5,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,RICH,PAULISTANO,"2026-11-22, MOG vs CAP",25,8,3,5,0,3,2,4,3,2,5,0,0,0,1,2
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,AVANSO,PAULISTANO,"2026-11-22, MOG vs CAP",14,6,1,1,1,2,1,1,2,1,3,0,1,0,0,1
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,MAIQUE,PAULISTANO,"2026-11-22, MOG vs CAP",16,5,1,3,1,1,0,2,3,0,3,0,0,1,0,3
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,MACEDO,PAULISTANO,"2026-11-22, MOG vs CAP",23,4,2,6,0,1,0,1,4,5,9,3,1,0,0,1
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,SEIXAS,PAULISTANO,"2026-11-22, MOG vs CAP",25,4,2,4,0,4,0,0,4,2,6,1,0,0,2,0
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,GABRIEL,PAULISTANO,"2026-11-22, MOG vs CAP",15,2,1,3,0,2,0,0,1,2,3,1,0,0,0,3
+nbb-caixa-2026-27-mogi-basquete-89-x-76-paulistano,2026-27,NBB,DIEGO ZAGO,PAULISTANO,"2026-11-22, MOG vs CAP",3,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,MOGI,BAURU BASKET,"2026-11-22, BAU vs UCO",25,26,9,11,1,1,5,6,2,1,3,1,1,0,4,0
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,HARRIS,BAURU BASKET,"2026-11-22, BAU vs UCO",34,21,3,7,5,10,0,0,7,1,8,6,0,1,3,4
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,THYGESEN,BAURU BASKET,"2026-11-22, BAU vs UCO",23,10,3,3,1,3,1,2,0,0,0,3,0,0,0,5
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,BENNETT,BAURU BASKET,"2026-11-22, BAU vs UCO",34,9,1,2,2,5,1,2,1,0,1,5,2,0,1,3
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,VIETA,BAURU BASKET,"2026-11-22, BAU vs UCO",24,9,2,2,1,2,2,3,3,0,3,2,0,1,0,3
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,VITOR,BAURU BASKET,"2026-11-22, BAU vs UCO",15,8,4,6,0,0,0,0,2,1,3,0,0,1,0,1
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,ALEX,BAURU BASKET,"2026-11-22, BAU vs UCO",31,6,2,5,0,4,2,2,9,0,9,3,0,2,1,2
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,GUSTAVO,BAURU BASKET,"2026-11-22, BAU vs UCO",14,0,0,0,0,2,0,0,0,0,0,2,0,0,0,4
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,ENZO,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",18,18,2,4,3,6,5,5,0,1,1,2,0,0,0,0
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,GABRIEL,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",30,18,5,10,1,5,5,6,6,0,6,8,1,0,2,2
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,EUGENIUSZ,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",26,15,2,4,1,2,8,10,1,2,3,1,1,0,1,3
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,JONATAN,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",20,14,4,6,2,4,0,1,3,2,5,2,2,0,0,2
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,MUNFORD,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",33,13,3,5,2,3,1,1,4,2,6,2,1,0,0,1
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,RENATO,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",23,5,1,4,1,2,0,0,2,1,3,1,1,0,2,1
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,CARDENAS,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",23,5,2,5,0,2,1,2,2,1,3,2,0,1,1,4
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,VERISSIMO,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",22,5,1,4,1,3,0,2,5,2,7,1,0,0,0,3
+nbb-caixa-2026-27-bauru-basket-89-x-94-ceisc-uniao-corinthians,2026-27,NBB,CAIO,CEISC/UNIAO CORINTHIANS,"2026-11-22, BAU vs UCO",6,1,0,2,0,0,1,2,0,1,1,0,0,0,1,1
